@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Wohnen in Prokopios</titel>
+	<titel lang="en">Staying in Ag. Prokopios</titel>
+    <beschreibung typ="bild" src="images/_index/prokopios.jpg"/>
+    <beschreibung typ="bild" src="images/_index/prokopios_strand.jpg"/>
+    <beschreibung typ="text" lang="de">
+    	Der Ort Prokopios ist ca. 5 km von der Chora (Hauptort) entfernt.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+    	The Village of Ag. Prokopios is ca. 5 km away from Chora (Main Town).
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+    	Prokopios hat einen schönen, langen Sandstrand mit einigen Geschäfte und Tavernen.
+    	Allerdings ist es hier etwas lebhafter als in Agia Anna und an der Plaka.
+    </beschreibung>    
+    <beschreibung typ="text" lang="en">
+    	Ag. Prokopios has a lovely long sandy beach with some shops and tavernas. Indeed it is more lively than Ag. Anna and Plaka Beach.
+    </beschreibung> 
+    <beschreibung typ="text" lang="de">
+    	Aus dem Ort fährt in der Saison halbstündlich ein Pendelbus bis in den Hafen von Naxos und zurück.
+    </beschreibung>  
+	<beschreibung typ="text" lang="en">
+		From the village a bus leaves to the harbor of Naxos and back every half hour.
+    </beschreibung>    
+    <beschreibung typ="text" lang="de">
+    	Die unten angebotenen Unterkünfte Georgios und Dina liegen wunderbar ruhig oberhalb des Ortes am Fuß des Berges Stelida 
+    	mit einem sagenhaften Blick rüber nach Paros. Das Haus von Stramatoula dagegen ist strandnah.
+    </beschreibung>      
+    <beschreibung typ="text" lang="en">
+		The studios of Georgios and Dina are located very quiet above the village near the hill of Stelida. Stramatoula`s house (Dilino) is located closed to the beach.    
+    </beschreibung>  
+    <beschreibung typ="text" lang="de">
+        Der Strand ist sehr "kindertauglich". Der Strand fällt sehr sanft ab und Spielkameraden finden sich sicher reichlich.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		The beach is ideal for children and they will find many playmates.
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+        Angebote
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		Offers
+    </beschreibung>    
+    <verweise>
+    	<verweis ziel="stelida_haus.xml" titel="Ferienhaus Stelida"/>
+    	<verweis ziel="stelida.xml" titel="Ferienwohnung Stelida"/>
+    </verweise>
+	<verweise>
+		<verweis ziel="dilino.xml" titel="Hotel Dilino"/>
+	</verweise>
+	<verweise>
+		<verweis ziel="georgios.xml" titel="Haus Georgios"/>
+		<verweis ziel="dina.xml" titel="Haus Dina"/>
+	</verweise>	
+</seite>  

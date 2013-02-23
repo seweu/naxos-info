@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Antonis II</titel>
+	<beschreibung typ="bild" src="images/antonis_2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		3-Zimmer-Haus, bis 7 Pers.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">
+		Schlafzimmer mit Doppelbett und Balkon. Schlafzimmer (Kajütenbett und ein Bett). 
+		Grosses Wohnzimmer mit Sofa, zu 2 separaten Betten ausziehbar. 
+		Sehr gut eingerichtete Küche (Backofen). WC/ Dusche und großer Balkon.
+	</beschreibung>
+	<preis lang="de">
+		je nach Reisezeit zwischen &#x20AC; 130 und &#x20AC; 160
+	</preis>
+</seite>

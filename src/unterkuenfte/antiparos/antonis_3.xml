@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Antonis III</titel>
+	<beschreibung typ="bild" src="images/antonis_3.jpg"/>
+	<beschreibung typ="text" lang="de">
+		3-Zi-Natursteinhaus bis 5 Pers.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">
+		Schlafzimmer mit Doppelbett und Balkon. Schlafzimmer mit 2 Betten. 
+		Sehr großes Wohnzimmer mit Kamin, Sofaecke, Zusatzbett und Essecke. 
+		Gut eingerichtete Küche (Backofen). WC/ Dusche. Großer, zum Teil gedeckter Balkon.
+	</beschreibung>
+	<preis lang="de">
+		je nach Reisezeit zwischen &#x20AC; 110 und &#x20AC; 140
+	</preis>
+</seite>

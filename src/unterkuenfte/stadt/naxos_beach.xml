@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Hotel Naxos Beach</titel>
+	<titel lang="en">Hotel Naxos Beach</titel>
+	<beschreibung typ="bild" src="images/naxos_beach/naxosbeach.jpg"/>
+	<beschreibung typ="bild" src="images/naxos_beach/naxosbeach2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Dieses Sporthotel mit Schwimmbad liegt am Rande der Stadt Naxos nur wenige Meter vom Strand St. George entfernt.
+		Ganz in der Nähe befindet sich eine Surfschule mit ausgezeichneten Lehrern und hervorragendem Sportmaterial.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		You will find this 1st class sport-hotel at the outer center of Naxos town -
+		only a few meters away from St. George's beach and close to an exellent surf-school with good teachers and best equipment.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Das Hotel ist im traditionellen kykladischen Stil erbaut und wurde in den beiden letzten Jahren komplett renoviert.
+		Es verfügt über einen großen windgeschützten Pool mit einladenden Sonnenliegen.
+		Alle Zimmer sind mit Klimaanlage,  Kühlschrank, TV, Dusche/WC und Terrasse oder Balkon ausgestattet.
+		Das Hotel liegt ist nur knapp 100 m vom Meer und der Surfstation entfernt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The hotel is totally renovated and build in a classical cycladic style. All rooms have ac, refrigerator, tv, douche/wc, terrace or balcony.
+	</beschreibung>	
+	<preis lang="de">
+		Die Doppelzimmer kosten je nach Reisezeit und Kategorie zwischen &#x20AC; 55 und 130.
+		Es gibt auch einige Familienappartements für 4 Personen.
+		Hier liegt der Übernachtungspreis zwischen &#x20AC; 100 und 190.
+	</preis>
+	<preis lang="en">
+		A doubble room will be - depending on your traveling time and category - between &#x20AC; 55 and 130.
+		2-room-apartments for 4 persons will be between &#x20AC; 100 and 190.
+	</preis>	
+</seite>

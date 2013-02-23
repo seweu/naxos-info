@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Antonis I</titel>
+	<beschreibung typ="bild" src="images/antonis_1.jpg"/>
+	<beschreibung typ="text" lang="de">
+		2-Zimmer-Haus, bis 4 Pers.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">
+		Schlafzimmer (Doppelbett). Grosses Wohnzimmer mit Sofa (2 Betten). Sehr gut eingerichtete Küche (Backofen). WC/ Dusche und großer Balkon.
+	</beschreibung>
+	<preis lang="de">
+		je nach Reisezeit zwischen &#x20AC; 90 und &#x20AC; 120
+	</preis>
+</seite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Ferienhaus Glinado</titel>
+	<titel lang="en">Ferienhaus Glinado</titel>
+	<beschreibung typ="bild" src="images/_index/view.jpg"/>
+	<beschreibung typ="bild" src="images/_index/kueche.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		Oberhalb der Chora Naxos inmitten der Felder steht dieses kleine 2-Zimmer-Ferienhaus für 2-3 Personen mit Innenhof sowie Terrasse. 
+		Von diesem Grundstück hat man einen wunderbaren Blick runter zum Meer, den Sonnenuntergang über Paros und auf die Stadt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This small 2-rooms-holidayhouse for 2-3 persons with courtyard and terrasse is located above the town of Naxos (Chora) inbetween the fields.
+		From this property you have a beautiful view down to the sea, the sunset over Paros and to the town. 
+	</beschreibung>
+	<beschreibung typ="bild" src="images/_index/schlafzimmer.jpg"/>
+	<beschreibung typ="bild" src="images/_index/wohnzimmer.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		In dem herrlich ruhigen Innenhof kann man entspannt auch mal den Tag verbringen und erst gar nicht das Haus verlassen...
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		In the wonderful quiet courtyard the day can be spent relaxed even without leaving the house...	
+	</beschreibung>
+	<beschreibung typ="bild" src="images/_index/innenhof.jpg"/>
+	<beschreibung typ="bild" src="images/_index/aussen.jpg"/>	
+	<preis lang="de">
+		Je nach Reisemonat liegt der Tagespreis hier bei &#x20AC; 55 - 75, die Anmietung eines Autos oder Mofas ist hier von Vorteil.
+		Die Endreinigungsgebühr beträgt &#x20AC; 30.	
+	</preis>
+	<preis lang="en">
+		Depending on the time of travelling the daily rent is between &#x20AC; 55 - 75. The rental of a car or a scooter is recommended here.
+		The amount for the final cleaning is &#x20AC; 30.	
+	</preis>
+</seite>  

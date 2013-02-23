@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Haus Antonia</titel>
+	<titel lang="en">Haus Antonia</titel>
+	<beschreibung typ="bild" src="images/antonia/antonia1.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Mitten in einem ruhigen Stadtteil von Naxos-Stadt (5 Min zum Zentrum und 2 Min zum Strand St. George)
+		liegt dieses gepflegte Haus mit 8 geräumigen Studios.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		In a quiet part of Naxos town you will find this well kept house with 8 well-sized apartments.
+		Each apartment has a private bathroom, balcony and kitchen and is suitable for 2-4 persons.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Es wird von einer ganz reizenden Familie geführt, die ihre Gäste wirklich verwöhnt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The family is really nice and they try everything to make you feel welcome.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Alle geräumigen 1-Zimmer-Studios haben Bad, Balkon und Küchenecke und sind für 2-4 Personen ausgelegt.
+		Darüber hinaus gibt es im Haus eine 2-Zimmer-Wohnung.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Within 5 mins you will reach the harbour and town centre of Naxos and in 2 mins St. George's beach.
+	</beschreibung>			
+	<preis lang="de">
+		Je nach Reisezeit und Studiogröße liegen die Preise zwischen &#x20AC; 35-60.
+		Die Ferienwohnung liegt bei &#x20AC; 60-75 und bei &#x20AC; 105 im August.
+	</preis>
+	<preis lang="en">
+		Depending on your travelling time and the size of the apartments chosen prices will be between &#x20AC; 35-60.
+		Holiday Flat will be &#x20AC; 60-75 in July and &#x20AC; 105 in August
+	</preis>	
+</seite>

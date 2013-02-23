@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Hotel Drei Brüder</titel>
+	<titel lang="en">Hotel Drei Brüder</titel>
+	<beschreibung typ="bild" src="images/dreibrueder/dreibrueder1.jpg"/>
+	<beschreibung typ="bild" src="images/dreibrueder/dreibrueder2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Die Studios und Zimmer dieser Anlage (oben links) mit netter Taverne liegen direkt 
+		am Plakastrand und sind nur 50 Meter vom Meer entfernt. 
+		Der Sandstrand erinnert mit seinen Dünen an die Inseln der Nordsee 
+		und das Wasser fällt langsam ab. So sind auch Kinder hier besonders gut aufgehoben. 
+		Noch ruhiger liegt das neue Wohnhaus 200 m von Strand und Taverne entfernt, 
+		bietet aber ebenfalls den Blick aufs Meer. (oben rechts)
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The studios and rooms of this plant (above left) and are only 50 meters away from the sea front. 
+		The sandy beach reminds of the North Sea with its dunes and the water falls down down only slowly into the sea. 
+		So children are safe and comfortable.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/dreibrueder/dreibrueder3.jpg"/>
+	<beschreibung typ="text" lang="de">
+		In dieser Anlage kann man sich natürlich selbst versorgen oder man 
+		lässt sich in der Taverne verwöhnen. Das Essen ist gut und preiswert 
+		und der Ausblick von der Tavernenterrasse sagenhaft schön. 
+		Die Zimmer können mit oder ohne Frühstück gebucht werden und sicher 
+		gehört die Anlage von Anna und Georgio zu unseren absoluten Lieblingsadressen. 
+		Der Service ist sehr gut und die Aufmerksamkeit der Eigentümer einmalig.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The 4-5 person apartments with 2 separate rooms are located in Georgios plant 200 m away from the beach, however, 
+		also offer the view to the sea.(above on the right).
+		In this plant you can cook for yourself or you treat yourself in the good tavern with its beautiful view to the sea. 
+		Georgios offers a breakfast bufet for his residents and good cooked food all day long.		
+	</beschreibung>
+	<beschreibung typ="bild" src="images/dreibrueder/dreibrueder4.jpg"/>
+	<preis lang="de">
+		 Die Studios (Doppelzimmer mit Küche, Bad und Balkon/Terrasse) kosten in der Vor- und Nachsaison &#x20AC; 45 inkl. Frühstück. 
+		 In der Zwischensaison &#x20AC; 75 - 90 und in der Hochsaison dann &#x20AC; 110. 
+	</preis>
+	<preis lang="en">
+		The sudios (double rooms with kitchen, bath and balcony/terrace) cost - depending on time of travelling and size - between &#x20AC; 45-90. 
+		Merely at the end of July and in August the prices is &#x20AC; 110. 
+	</preis>
+	<preis lang="de">
+		 Die 2-Zimmer-Wohnungen kosten entsprechend &#x20AC; 65 - 120 und in der Hochsaison &#x20AC; 140 (inkl. Frühstück) 
+	</preis>
+	<preis lang="en">
+		The 2 room appartements  cost &#x20AC; 65-120 and in high season &#x20AC; 140 (incl. breakfast) 
+		There also are some double rooms. They don't have a kitchen but they are a little cheaper.	
+	</preis>
+</seite>
+
+
+                
+				
+          

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+        <titel lang="de">Plaka Ferienhaus I</titel>
+        <titel lang="en">Plaka Ferienhaus I</titel>
+        <beschreibung typ="bild" src="images/ferienhaus/ferienhausplaka.jpg"/>
+        <beschreibung typ="bild" src="images/ferienhaus/ferienhausplaka2.jpg"/>
+        <beschreibung typ="text" lang="de">
+                Nur 150 m vom Wasser entfernt liegt dieses gepflegte Ferienhaus für 4 Personen.
+        Da das Haus vom Eigentümer privat genutzt wird, wird es Ihnen an nichts fehlen.
+                Der Wohnraum ist äußerst geschmackvoll eingerichtet und der Garten wird regelmäßig von einem Gärtner gepflegt.
+        </beschreibung>
+        <beschreibung typ="text" lang="en">
+                Only 150 m from the seafront you will live in this well kept villa for 4 persons.
+                Because the house is privately used by the owner, you will find everything you need for your comfort.
+                The livingroom is beautiful and the garden is kept by a gardener.
+        </beschreibung>
+        <beschreibung typ="text" lang="de">
+                Die Tavernen der Plaka sind ebenfalls zu Fuß erreichbar und
+        ein Supermarkt ist ca. 300 m entfernt. Der Bus zum Hafen von Naxos fährt
+        regelmäßig bis an die Plaka und zurück. Noch schöner ist es sicher,
+        wenn man einen kleinen Leihwagen oder ein Moped zur Verfügung hat.
+        </beschreibung>
+        <beschreibung typ="text" lang="en">
+                The tavernas of Plaka beach you'll reach by foot and a supermarket is close by.
+                Every 30 min. a bus takes you into Naxos town (harbour) and back.
+                Of course even more comfortable you will be with a car or bike.
+        </beschreibung>
+        <preis lang="de">
+                 April + Oktober 100 &#x20AC;
+        </preis>
+        <preis lang="en">
+                april + october 100 &#x20AC;
+        </preis>
+        <preis lang="de">
+                 Mai, Juni und September 120 &#x20AC;
+        </preis>
+        <preis lang="en">
+                may, june + september 120 &#x20AC;
+        </preis>
+        <preis lang="de">
+                 Juli und August 140 &#x20AC;
+        </preis>
+        <preis lang="en">
+                july + august 140 &#x20AC;
+        </preis>
+        <preis lang="de">
+               Endreinigung inkl. Wäsche &#x20AC; 100
+        </preis>
+        <preis lang="en">
+                Cleaning incl. sheets, towels etc. &#x20AC; 100
+        </preis>
+</seite>

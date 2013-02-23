@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+
+	<beschreibung typ="text" lang="de">Naxos - die wunderschöne Kykladeninsel in Griechenland</beschreibung>
+	<beschreibung typ="text" lang="de">mit belebten oder einsamen Stränden</beschreibung>
+	<beschreibung typ="text" lang="de">mit freundlichen Gastgebern und netten Individualtouristen</beschreibung>
+	<beschreibung typ="text" lang="de">mit Bergen und herrlichen Wanderwegen</beschreibung>
+	<beschreibung typ="text" lang="de">mit grünen Tälern und klaren Flüssen</beschreibung>
+	<beschreibung typ="text" lang="de">Ein Paradies</beschreibung>
+	<beschreibung typ="text" lang="de">zum Faulenzen und Spaß haben</beschreibung>
+	<beschreibung typ="text" lang="de">zum Schwimmen und Wandern</beschreibung>
+	<beschreibung typ="text" lang="de">zum Surfen und Mountain-Biken</beschreibung>
+	<beschreibung typ="text" lang="de">zum Segeln u.s.v.m.</beschreibung>
+	
+	<beschreibung typ="text" lang="en">Naxos - one of the most beautiful islands in the Greek Cyclades</beschreibung>
+	<beschreibung typ="text" lang="en">with solitary sands or lively, sun-drenched beaches,</beschreibung>
+	<beschreibung typ="text" lang="en">friendly, helpful locals and tourists alike,</beschreibung>
+	<beschreibung typ="text" lang="en">with breath-taking mountains, idyllic seasides,</beschreibung>
+	<beschreibung typ="text" lang="en">green valleys and clear rivers.</beschreibung>
+	<beschreibung typ="text" lang="en">A paradise in which you can</beschreibung>
+	<beschreibung typ="text" lang="en">either just relax,</beschreibung>
+	<beschreibung typ="text" lang="en">or enjoy swimming, hiking, surfing, sailing or mountain biking...</beschreibung>
+
+	<verweis typ="bottom" lang="de" ziel="unterkuenfte.xml" titel="eben genau so, wie Sie es sich vorstellen ..."/>
+	<verweis typ="bottom" lang="en" ziel="unterkuenfte.xml" titel="... just as you imagined it in your dreams"/>
+
+</seite>  

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Wohnen in Mikri Vigla</titel>
+	<titel lang="en">Staying in Mikri Vigla</titel>
+	<beschreibung typ="bild" src="images/_index/mikri_vigla.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Der Ort Mikri Vigla ist ca. 10 km von der Chora (Hauptort) entfernt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Mikri Vigla is ca. 10 km away from Chora (main village).
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Mikri Vigla ist auch in der Hochsaison noch ruhig, da der Tourismus sich hier erst langsam entwickelt. 
+		Die Lage eignet sich besonders für Surfer, die hier - neben der Lagune am St. George Beach - ein weiteres Paradies entdeckt haben.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Here it is quiet even in high season, because here tourism started not long ago.
+		It is very suitable for surfers. Here they found - beside the laguna of St. George - their new paradise.
+	</beschreibung>    
+	<beschreibung typ="text" lang="de">
+	    Da es aber verschiedene Buchten gibt, finden auch die weniger windbegeisterten Urlauber nette 
+	    Liegeplätze an weißen Sandstränden.    
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+	But don't worry. If you prefer to just lie on the beach, you will find many quiet sandy beaches.
+	</beschreibung>    
+	<beschreibung typ="text" lang="de">
+		Die Verbindung zum Hauptort ist nicht ganz so ideal, wie von der Plaka oder von Ag. Anna und Ag. Prokopios. 
+		Hier bietet es sich an, ein Mofa oder einen Leihwagen dauerhaft zu mieten.    
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Getting to Naxos is not so easy as from Plaka or Ag. Anna. Therefore we recommend to rent a bike or a car throughout your stay.
+	</beschreibung>    
+	<beschreibung typ="text" lang="de">
+		Angebote    
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Offers
+	</beschreibung>
+	<verweise>
+		<verweis ziel="yianni.xml" titel="Haus Yianni"/>
+		<verweis ziel="nina.xml" titel="Ferienwohnung Nina"/>
+	</verweise>		
+</seite>  

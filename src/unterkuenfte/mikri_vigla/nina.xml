@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Ferienwohnung Nina</titel>
+	<beschreibung typ="bild" src="images/nina/nina1.jpg"/>
+	<beschreibung typ="bild" src="images/nina/nina2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Dieses gemütliche Appartement für 2-3 Personen liegt unmittelbar am Strand von Pirgaki. 
+		Da es vom Eigentümer privat genutzt wird, 
+		fehlt es dem Urlauber an nichts und er wird sich gleich "wie zu Hause" fühlen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This comfortable flat for 2-3 persons you will find right next to Pirgaki beach.
+		Because it is used by the owner you will not miss anything and you will feel really "at home".
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Hier treffen sich die Surfer und die Liebhaber der einsamen Strände. 
+		Auch während der Hochsaison im Juli und August ist es hier noch wunderbar ruhig. 
+        Tavernen sind zu Fuß zu erreichen. 
+        Für Fahrten in die Stadt Naxos benötigt man hier allerdings einen Wagen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Here you will find the surfers and people who are keen on lonely beaches.
+		Even in July and August this part of Naxos is very quiet.
+		Within walking distance you will find several tavernas. For trips into Naxos town you'll need a little car.
+	</beschreibung>
+	<preis lang="de">
+		 Je nach Reisezeit kostet die Wohnung zwischen 50-70 &#x20AC; für 2 Personen. 
+		 Die 3. Personen wird mit &#x20AC; 10 extra brechnet. 
+	</preis>
+	<preis lang="en">
+		Depending on your travelling time the flat will be between &#x20AC; 50-70/day for 2 persons. The 3rd person will be extra &#x20AC; 10.
+	</preis>
+</seite>               

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Landkarte</titel>
+	<titel lang="en">Map</titel>
+	<beschreibung typ="bild" src="images/_index/landkarte.gif"/>
+</seite>  

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="seite" type="seite"/>
+
+	<xs:simpleType name="beschreibungTyp">
+	  <xs:restriction base="xs:string">
+	    <xs:enumeration value="bild"/>
+	    <xs:enumeration value="text"/>
+	  </xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="lang">
+	  <xs:restriction base="xs:string">
+	    <xs:enumeration value="de"/>
+	    <xs:enumeration value="en"/>
+	  </xs:restriction>
+	</xs:simpleType>	
+
+	<xs:complexType name="titel">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="lang" type="lang" />
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+
+	<xs:complexType name="verweis">
+		<xs:attribute name="typ" type="xs:string" use="optional"/>
+		<xs:attribute name="lang" type="lang" use="optional"/>
+		<xs:attribute name="ziel" type="xs:string" use="required"/>
+		<xs:attribute name="titel" type="xs:string" use="required"/>	
+	</xs:complexType>
+
+	<xs:complexType name="preis" mixed="true">
+		<xs:attribute name="lang" type="lang" use="optional"/>
+	</xs:complexType>
+
+	<xs:complexType name="seite">
+		<xs:sequence>
+			<xs:element name="titel" type="titel" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="beschreibung" type="beschreibung" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="verweis" type="verweis" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="preis" type="preis" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>	  
+		<xs:attribute name="typ" type="xs:string" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="beschreibung" mixed="true">
+		<xs:sequence >
+			<xs:element name="verweis" type="verweis" minOccurs="0"/>
+			<xs:element name="span" type="span" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="br" type="br" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="typ" type="beschreibungTyp" use="required"/>
+		<xs:attribute name="src" type="xs:string" use="optional"/>
+		<xs:attribute name="lang" type="lang" use="optional"/>
+	</xs:complexType>	
+	
+	<xs:complexType name="br"/>
+	
+	<xs:complexType name="span">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="class" type="xs:string" />
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:element name="verweis">
+	</xs:element>
+</xs:schema>

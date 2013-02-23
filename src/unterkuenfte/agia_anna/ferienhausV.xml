@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Ferienhaus Plaka V (Tom)</titel>
+	<titel lang="en">Ferienhaus Plaka V (Tom)</titel>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_1.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Ein ganz besonders geschmackvolles Ferienhaus für 6 Personen bietet eine reizende norwegische Familie an. 
+		Da sie das Haus auch privat nutzen, wird es Ihnen an nichts fehlen.
+		Das Haus liegt in einem ruhigen Wohngebiet ca. 1 km oberhalb des schönsten Strandes der Insel - der Plaka.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This elegant holiday house for 6 Persons is offered by a charming norwegian family.
+		Because they also use the house on their own it is completely equipped and you will not miss anything.
+		The house is located in a quiet neighbourhood about 1 km above the most beautiful beach of the island - the Plaka Beach.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Von den diversen Terrassen des Hauses erschließt sich ein wunderbarer Rundumblick in die Berge und über das Meer.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		From diverse terraces there is a wonderful panoramic sight to the mountains an beyond the sea.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Das Haus verfügt über 3 Schlafzimmer und 2 Badezimmer, einen großzügigen Wohnbereich mit angeschlossener Küche.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The house is built with 3 sleeping rooms, 2 bathrooms and has a big living area with the kitchen enclosed.
+	</beschreibung>		
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_3.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_4.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Wir empfehlen bei allen Ferienhäusern das Ausleihen eines kleinen Wagens oder eines Mofas.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		We recommend for all holiday houses to rent a small car or a scooter.
+	</beschreibung>	
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_5.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu2.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu3.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu4.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu5.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu6.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausV/plaka5_neu7.jpg"/>
+	<preis lang="de">
+		 April + Oktober 120 &#x20AC;
+	</preis>
+	<preis lang="en">
+		April + October 120 &#x20AC;
+	</preis>
+	<preis lang="de">
+		 Mai, Juni und September 150 &#x20AC;
+	</preis>
+	<preis lang="en">
+		May, June and September 150 &#x20AC;
+	</preis>	
+	<preis lang="de">
+		 Juli und August 180 &#x20AC;
+	</preis>
+	<preis lang="en">
+		July and August 180 &#x20AC;
+	</preis>	
+	<preis lang="de">
+		 Endreinigung inkl. Wäsche 150 &#x20AC;
+	</preis>
+	<preis lang="en">
+		Final cleaning incl. Laundry 150 &#x20AC;	
+	</preis>	
+</seite>

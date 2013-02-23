@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Haus Stramatoula</titel>
+	<titel lang="en">Haus Stramatoula</titel>
+	<beschreibung typ="bild" src="images/stramatoula/stramatoula.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Direkt am Ortseingang von Prokopios liegen dieses Studios nur ca. 100 m vom Strand und 200 m vom Ort entfernt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Only 100 m away from the beach of Prokopios and 200 m from Prokopios center this nice private hotel is situated.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Prokopios ist ein kleiner Ort zwischen der Chora und Agia Anna.
+		Hier sind die Strände einmalig schön und bis zur Stadt (Chora) sind es nur ca. 5 km.
+		Der Ort selbst hat allerdings genügend Tavernen und Einkaufsmöglichkeiten, 
+		so dass man nicht unbedingt bis in die Stadt muss.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Prokopios is a small village between Naxos Chora (5 km) and Agia Anna (1 km).
+		The sandy beaches are clean and the village offers many tavernas and supermarkets.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Sämtliche Studios haben Meerblick, das Haus ist ausgesprochen sauber und gepflegt und wird von einer reizenden Familie geführt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		All rooms have a view to the sea and the house is exceptional clean and well kept by a realy nice family.
+	</beschreibung>			
+	<preis lang="de">
+		Die Studios mit Terrasse kosten in der Vor- und Nachsaison zwischen &#x20AC; 45-55.
+		Lediglich Mitte Juli bis Ende August liegen die Preise bei &#x20AC; 60-70.
+	</preis>
+	<preis lang="en">
+		A double room with terrace will be between &#x20AC; 45-55 and approx. 60-70 in jul/aug.
+	</preis>	
+</seite>

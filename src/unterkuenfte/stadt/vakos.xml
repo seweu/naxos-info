@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Hotel Vakos</titel>
+	<titel lang="en">Hotel Vakos</titel>
+	<beschreibung typ="bild" src="images/vakos/vakos.jpg"/>
+	<beschreibung typ="bild" src="images/vakos/vakoswg.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Mitten in einem ruhigen Stadtteil von Naxos-Stadt (5 Min zum Zentrum und 2 Min zum Strand) liegt dieses gepflegte Haus mit Zimmern, Studios und Wohnungen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Close to the centre of Naxos town - in a quiet living aera (5 min. to centre and 2 min. to St. George's beach) you will find this comfortable house with rooms, studios and apartments.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Die Zimmer und Wohnungen haben alle Bad und Küche und auf der Terrasse sitzt man mitten im "normalen Leben" von Naxos -
+		da in der Nachbarschaft viele private Häuser und Wohnungen liegen. Auf der hauseigenen Terrasse wird morgens 
+		auch ein gutes Frühstück serviert, was in vielen Häusern nicht üblich ist.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		On the terrace you will sit in the middle of "normal Naxos life" - because in the neighborhood many private houses and flats are situated.
+		In the mornings a good breakfast is served on the terrace, which is not usual in a lot of small greek hotels.
+	</beschreibung>	
+	<preis lang="de">
+		Je nach Reisezeit betragen die Preise für:
+	</preis>
+	<preis lang="en">
+		Depending on the traveling time the prices are:
+	</preis>
+	<preis lang="de">
+		ein Doppelzimmer zwischen 40 und 60 &#x20AC; (Juli/Aug.)
+	</preis>
+	<preis lang="en">
+		doubble room between &#x20AC; 40-60 (Juli(Aug.)
+	</preis>
+	<preis lang="de">
+		ein Studio (Doppelzimmer mit Bad und Küchenecke) zwischen 45 und 60 &#x20AC; (Juli/Aug.)
+	</preis>
+	<preis lang="en">
+		studio (doubble room with kitchen) between &#x20AC; 45-65 (Juli/Aug.)
+	</preis>
+	<preis lang="de">
+		und für die Zweizimmerwohnungen zwischen 80 und 100 &#x20AC;. (Juli/Aug)
+	</preis>
+	<preis lang="en">
+		and for 2-room-apartments between &#x20AC; 80-100 (Juli/Aug)
+	</preis>		
+</seite>

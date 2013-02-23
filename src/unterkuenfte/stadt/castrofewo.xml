@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Ferienwohnung Castro</titel>
+	<titel lang="en">Apartment Castro</titel>
+	<beschreibung typ="bild" src="images/castrofewo/view_sea.jpg"/>
+	<beschreibung typ="bild" src="images/castrofewo/view_zas.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Diese kleine Ferienwohnung, die sich wunderbar für 2 Personen eignet, 
+		liegt am Rande des alten Kastro-Viertels oben auf dem Berg über der Altstadt. 
+		Traditioneller kann man in Naxos kaum wohnen. 
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This small holiday-flat is perfect for 2 persons. 
+		It is located in the old Kastro-area up on the hill over the old town. 
+		More traditional you can not stay in Naxos.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/castrofewo/wohnzimmer.jpg"/>
+	<beschreibung typ="bild" src="images/castrofewo/kamin.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Die geschmackvoll eingerichtete Wohnung ist aufgrund Ihrer Lage wirklich etwas Besonderes. 
+		Da sie am äußeren Rand des Castros liegt, ist auch der Blick nicht verbaut. 
+		Die großzügige Terrasse lädt zum Verweilen ein und bietet seitlich etwas Meerblick zum Grotta-Viertel, 
+		der Hauptblick führt ins Landesinnere über die Berge.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Because of the location the beautiful flat is something special. 
+		Because it is located on the outskirts of the Kastro there is a beautiful view to the inland. 
+		The spacios terrace has also a view to the grotta-area of the town and also little seaview.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/castrofewo/terrasse1.jpg"/>
+	<beschreibung typ="bild" src="images/castrofewo/kueche1.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		Die Wohnung verfügt über ein Schlafzimmer, ein Wohnzimmer mit angrenzender, vollausgestatteter Küche mit Essbereich. 
+		Das kleine Badezimmer ist liebevoll gestaltet und verfügt auch über eine Waschmaschine. 
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The flat has available one sleeping room, one livingroom with a closed-by fully equipped kitchen with dining area. 
+		The small bathroom is lovingly designed and there is also a washing mashine.
+	</beschreibung>		
+	<preis lang="de">
+		Übernachtungspreise:
+	</preis>
+	<preis lang="de">
+		April/Okt &#x20AC; 50
+	</preis>
+	<preis lang="de"> 
+		Mai &#x20AC; 60
+	</preis>
+	<preis lang="de">	 
+		Juni/Sept. &#x20AC; 70
+	</preis>
+	<preis lang="de">	 
+		Juli/Aug &#x20AC; 90
+	</preis>
+	<preis lang="de">
+		Winter &#x20AC; 40
+	</preis>
+	<preis lang="de">	
+		Einmalige Endreinigungsgebühr &#x20AC; 60 
+	</preis>
+	<preis lang="en">
+		Prices per night:
+	</preis>
+	<preis lang="en">	
+		April/Oct &#x20AC; 50
+	</preis>
+	<preis lang="en">
+		May &#x20AC; 60
+		</preis>
+	<preis lang="en">	
+		June/Sept. &#x20AC; 70
+		</preis>
+	<preis lang="en">	
+		July/Aug &#x20AC; 90
+		</preis>
+	<preis lang="en">	
+		Winter &#x20AC; 40
+		</preis>
+	<preis lang="en">	
+		Final cleaning fee &#x20AC; 60
+	</preis>	
+</seite>

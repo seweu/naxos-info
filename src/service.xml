@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+	<beschreibung typ="text" lang="de">- Wir helfen bei der Planung oder Buchung der <span class="fett">Anreise</span></beschreibung>
+	<beschreibung typ="text" lang="de">- Wir holen Sie am <span class="fett">Hafen</span> (oder Flughafen) ab</beschreibung>
+	<beschreibung typ="text" lang="de">- Wir zeigen Ihnen die <span class="fett">schönsten Ecken</span> der Insel</beschreibung>
+	<beschreibung typ="text" lang="de">- Wir besorgen Ihnen den geeigneten <span class="fett">Wanderführer</span></beschreibung>
+	<beschreibung typ="text" lang="de">- Wir buchen Ihr <span class="fett">Mountainbike, Motorrad</span> oder Ihren <span class="fett">Mietwagen</span></beschreibung>
+	<beschreibung typ="text" lang="de">- Wir vermitteln Ihnen einen traumhaften <span class="fett">Segeltörn</span> oder einen <span class="fett">Surfkurs</span><br/><br/></beschreibung>
+	<beschreibung typ="text" lang="de">- <span class="fett">Wir sind da - wann immer Sie uns brauchen ...</span><br/><br/></beschreibung>
+	<beschreibung typ="text" lang="de">... und falls Sie sich in die Insel verlieben, suchen wir mit Ihnen Ihr <verweis ziel="../hausverkauf/a_hausverkauf.htm" titel="Haus oder Traumgrundstück"/></beschreibung>
+
+	<beschreibung typ="text" lang="en">- We help you with the planning or booking of your <span class="fett">jounrney</span></beschreibung>
+	<beschreibung typ="text" lang="en">- We pick you up at the <span class="fett">harbour</span> or at the airport</beschreibung>
+	<beschreibung typ="text" lang="en">- We show you the <span class="fett">nicest parts</span> of the island</beschreibung>
+	<beschreibung typ="text" lang="en">- We choose an experienced <span class="fett">walking-guide</span> for you</beschreibung>
+	<beschreibung typ="text" lang="en">- We book your <span class="fett">car, bike</span> or <span class="fett">mountainbike</span></beschreibung>
+	<beschreibung typ="text" lang="en">- We arrange a <span class="fett">surf-course</span> or a <span class="fett">sailing-turn</span> for you<br/><br/></beschreibung>
+	<beschreibung typ="text" lang="en">- <span class="fett">We are there for your whenever you need us ...</span><br/><br/></beschreibung>
+	<beschreibung typ="text" lang="en">... and in case you fall in love with the island, we'll help you to find your <verweis ziel="../hausverkauf/a_hausverkauf.htm" titel="dream place"/></beschreibung>
+
+	<verweis typ="bottom" lang="de" ziel="unterkuenfte.xml" titel="eben genau so, wie Sie es sich vorstellen ..."/>
+	<verweis typ="bottom" lang="en" ziel="unterkuenfte.xml" titel="just like  you imagine it to be..."/>
+
+</seite>  

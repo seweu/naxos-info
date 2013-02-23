@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Stelida Ferienhaus</titel>
+	<titel lang="en">Stelida Ferienhaus</titel>
+	<beschreibung typ="bild" src="images/stelida_haus/stelida_haus1.jpg"/>
+	<beschreibung typ="bild" src="images/stelida_haus/stelida_haus2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Dieses private Ferienhaus für 6-8 Personen liegt am Fuß des Berges Stelida zwischen der Stadt Naxos und oberhalb des Strandes von Prokopios.
+		Die vielen Terrassen rund um das Haus ermöglichen einen wunderbar weiten Blick auf die Strände der Westküste,
+		auf die Berge des Inlandes und auf die Nachbarinsel Paros.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This private summer cottage for 6 persons is located near the hill of Stelida between the town Naxos and above the beach of Prokopios.
+		Many terraces all around the house allow a miraculously wide look at the beaches of the westcoasts,
+		to the mountains of the inland and on the neighboring island Paros.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/stelida_haus/stelida_haus3.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		Alle drei großzügigen Doppelzimmer verfügen über ein eigenes Bad und eine eigene Terrasse.
+		Der große Wohnraum mit Kamin und angeschlossener Küche lädt zum gemütlichen Zusammensein ein.
+		So eignet sich das Haus gleichermaßen für Familien wie für befreundete Paare.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		All three generous double rooms have their own bath and their own terrace.
+		The big living room with chimney and connected kitchen invites you for a comfortable evening together.	
+	</beschreibung>	
+	<preis lang="de">
+		Während der Sommersaison (Juni-Aug) kostet das Haus &#x20AC; 150/Tag zzgl. &#x20AC; 100 für die Endreinigung.
+		Wäsche und Handtücher sind selbstverständlich ausreichend vorhanden.
+		Außerhalb der Saison können günstige Wochenpreise vereinbart werden.
+	</preis>
+	<preis lang="en">
+		Thus the house is suited equally for families and for friends. During the summer season (June-Aug) the house costs &#x20AC; 150/day.
+		Beyond the season favorable weekly prices can be arranged.
+	</preis>	
+</seite>

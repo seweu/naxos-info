@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Wohnen in Agia Anna</titel>
+	<titel lang="en">Places in Agia Anna</titel>
+    <beschreibung typ="bild" src="images/_index/annahafen.jpg"/>
+    <beschreibung typ="text" lang="de">
+    	Der kleine Fischerort Agia Anna ist ca. 6 km von der Chora (Hauptort) entfernt.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+    	The little village Agia Anna is ca. 6 km away from Chora (Naxos-town).
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+    	Hier in Agia Anna beginnt der sicherlich schönste Sandstrand der Insel (Plaka), 
+    	der sich über 5 Kilometer bis hin nach Mikri Vigla und hinter Mikri Vigla wieder kilometerlang in Richtung Süden erstreckt.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		Here in Agia Anna you will find one of the nicest sandy beaches. 
+		Along Plaka beach you can walk 5 km heading south reaching Mikri Vigla - and from here another 5 km along Kastraki Beach.    
+    </beschreibung>    
+    <beschreibung typ="text" lang="de">
+    	Hinter den grasbewachsenen Dünen (wie an der Nordsee - aber mit besserem Wetter!) liegen viele kleine Tavernen, 
+    	in die man den ganzen Tag herrlich einkehren und abends den Sonnenuntergang über Paros genießen kann.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		Behind the dunes of Plaka beach you'll find many nice tavernas from which you'll have a beautiful view into the sunset over Paros.    
+    </beschreibung>    
+    <beschreibung typ="text" lang="de">
+    	Direkt vom malerischen kleinen Hafen des Ortes fahren halbstündlich Busse in die Stadt - aber eigentlich gibt es kaum einen Grund, 
+    	dieses kleine Paradies oft zu verlassen. 
+    	In mehreren kleinen Supermärkten bekommt man alles, was man zum bescheidenen Leben braucht und Tavernen gibt es reichlich.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		Right from the harbour of Agia Anna a bus leaves for Naxos town every half hour. But you do not have to leave this little paradise often. 
+		There are little supermarkets for everything you might need and many tavernas with good food.    
+    </beschreibung>    
+    <beschreibung typ="text" lang="de">
+        Dieser Ort eignet sich für Menschen, die eher die Ruhe am Meer suchen, als den Trubel der Stadt. 
+        Und natürlich besonders für Familien mit Kindern. 
+        An den Stränden der Plaka fällt das saubere Wasser nur langsam ab und die Kinder können hier gefahrlos spielen.    
+    </beschreibung>    
+    <beschreibung typ="text" lang="en">
+    	This place is very suitable for people who search rather the peace close to the sea than the night-life of Naxos town.
+		I specially recomend this place to parents and children, because the coast is flat and the children can safely play next to the beach.
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+        Angebote
+    </beschreibung>
+    <beschreibung lang="en">
+		Offers
+    </beschreibung>    
+    <verweise>
+    	<verweis ziel="ferienhaus.xml" titel="Ferienhaus Plaka I (Henning)"/>
+    	<verweis ziel="rainer.xml" titel="Ferienhaus Plaka III (Rainer)"/>
+    	<verweis ziel="ferienhausIV.xml" titel="Ferienhaus Plaka IV (Aris)"/>
+    	<verweis ziel="ferienhausV.xml" titel="Ferienhaus Plaka V (Tom)"/>
+    </verweise>
+	<verweise>
+		<verweis ziel="hausplaka.xml" titel="Villa Kazilieris"/>
+		<verweis ziel="morgana.xml" titel="Villa Morgana"/>
+	</verweise>
+	<verweise>
+		<verweis ziel="aegean_palace.xml" titel="Aegean Palace"/>
+		<verweis ziel="niko.xml" titel="Hotel Niko"/>
+		<verweis ziel="dreibrueder.xml" titel="Hotel Drei Brüder"/>
+		<verweis ziel="katerina.xml" titel="Hotel Katerina"/>
+	</verweise>
+</seite>  

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Häuser Sacharo</titel>
+	<beschreibung typ="bild" src="images/sacharo_1.jpg"/>
+	<beschreibung typ="text" lang="de">
+		je 4-5 Personen, je 3 Zimmer - 6 km außerhalb von Antiparos
+	</beschreibung>
+	<beschreibung typ="bild" src="images/sacharo_2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Zwei freistehende und voneinander unabhängige Häuser, 
+		sehr ruhig und direkt am Meer und Sandstrand gelegen.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">		
+		Viel Platz, herrliche Aussicht nach Westen (Sonnenuntergänge!), 
+		großer naturbelassener Sandstrand.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">		
+		6 km außerhalb des Dorfes ohne Busverbindungen, aber mit guter, 
+		bis kurz vor den Häusern asphaltierter Strasse.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">		
+		Jedes Haus verfügt über 2 Schlafzimmer (Doppelbett und 2 Betten), 
+		Wohnküche mit Essplatz, WC/ Dusche und großem überdachtem Balkon.
+	</beschreibung>
+	<preis lang="de">
+		je nach Reisezeit zwischen &#x20AC; 85 und &#x20AC; 120
+	</preis>	
+</seite>

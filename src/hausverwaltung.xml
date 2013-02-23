@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+	<titel lang="de">Wir betreuen Ihr Haus durchgängig das ganze Jahr</titel>
+	<titel lang="en">We take care of your house throughout the whole year...</titel>
+
+	<beschreibung typ="text" lang="de">- Reinigungsdienst</beschreibung>
+	<beschreibung typ="text" lang="de">- Gartenpflege</beschreibung>
+	<beschreibung typ="text" lang="de">- qualifizierte Umbauten</beschreibung>
+	<beschreibung typ="text" lang="de">- Bauaufsicht</beschreibung>
+	<beschreibung typ="text" lang="de">- u.v.m.</beschreibung>
+
+	<beschreibung typ="text" lang="en">- Cleaning</beschreibung>
+	<beschreibung typ="text" lang="en">- Gardening</beschreibung>
+	<beschreibung typ="text" lang="en">- Qualified Conversion</beschreibung>
+	<beschreibung typ="text" lang="en">- Building Supervision</beschreibung>
+	<beschreibung typ="text" lang="en">- and much more...</beschreibung>
+
+	<verweis typ="bottom" lang="de" ziel="de/unterkuenfte.xml" titel="eben genau so, wie Sie es sich vorstellen ..."/>
+	<verweis typ="bottom" lang="en" ziel="en/unterkuenfte.xml" titel="just like  you imagine it to be..."/>
+
+</seite>  

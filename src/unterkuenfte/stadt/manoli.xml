@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Hotel Manoli</titel>
+	<titel lang="en">Hotel Manoli</titel>
+	<beschreibung typ="bild" src="images/manoli/manoli1.jpg"/>
+	<beschreibung typ="bild" src="images/manoli/manoli2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Dieses Haus liegt direkt am Strand von St.George - keine zwei Minuten von der Paralia 
+		der Stadt Naxos nur 20 Meter vom Wasser entfernt. Das Haus bietet sich an für Menschen, 
+		die gerne das Meer sehen und dennoch in der Stadt wohnen möchten.
+		Die Surfstation von Flisvos erreicht man zu Fuß am Strand entlang in 5 Minuten.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		You will find this hotel right at St. George's beach - 2 min. from Naxos centre and
+		only 20 meters from seafront. The ideal place for people who want to live close
+		to the beach and not far away from town.
+		You can reach the surf school in 5 min walking distance along the beach.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Die Zimmer und Studios haben alle AC, TV, Telefon, Radio und Kühlschrank bzw.
+		Küche und hier ist ein gutes Frühstück im Zimmerpreis enthalten (in Griechenland eher ungewöhnlich).
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		All rooms and studios have ac, tv, telephone, radio and refrigerator or kitchen.
+		A good breakfast is included in the price. (slightly unusual for greece).
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Diese kleine Privatpension ist sehr sauber und die Eigentümer sind ausgesprochen freundlich und hilfsbereit.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This small and private hotel is very clean and the owners are exeptional friendly and helpful.
+	</beschreibung>		
+	<preis lang="de">
+		Je nach Reisezeit betragen die Preise für ein Studio (Doppelzimmer mit Bad und Küchenecke) &#x20AC; 45 - 75 und für ein 3-4 Personenappartement &#x20AC; 60 - 90.
+	</preis>
+	<preis lang="en">
+		Depending on traveling time the prices for a studio are &#x20AC; 45-75 and for a two-room-apartment &#x20AC; 60-90.
+	</preis>	
+</seite>

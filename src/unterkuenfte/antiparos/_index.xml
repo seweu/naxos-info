@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Insel Antiparos</titel>
+    <beschreibung typ="bild" src="images/antiparos.jpg"/>
+    <beschreibung typ="text" lang="de">
+    	Manchmal wollen unsere Gäste ihren Urlaub aufteilen und eine 2. Insel kennen lernen...
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+    	Als nettes Kontrastprogramm zu Naxos empfehlen wir eine ganz kleine Insel: Antiparos
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+    	Antiparos ist eine der kleinen Kykladen, noch typisch griechisch mit schöner Landschaft und vielen Sandstränden. 
+    	Sie ist 35 km2 groß, 12 km lang, maximal 5 km breit, und hat ca. 750 Inselbewohner, 
+    	die fast alle in einem kleinen Hafenort auf der Nordseite der Insel wohnen. Der Ort ist nicht überlaufen, 
+    	aber auf Besucher sehr gut eingerichtet.
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+    	Antiparos hat einen romantischen Fischerhafen mit Tavernen und Cafes. 
+    	Das Dorf ist innen für Autos gesperrt und zieht sich von der Ost- zur Westküste. 
+    	Es ist ein gemütliches, besonders schmuckes und sauberes Kykladendorf mit vielen guten Tavernen, kleinen, 
+    	gut eingerichteten Supermärkten und hübschen, originellen Läden. 
+    	Auch gibt es Post, Bank, Bancomat, Moped-, Bike- und Autovermietung sowie 2 Diskos und einige Bars.
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+        Antiparos liegt gegenüber der fünfmal größeren Insel Paros. 
+        Von Antiparos aus kann man mit vier kleinen Autofähren in nur fünf Minuten nach Pounda / Paros übersetzen. 
+        Im Sommer fahren diese halbstündlich.
+    </beschreibung>   
+    <beschreibung typ="text" lang="de">
+        Auf Antiparos können wir Ihnen einige nette Ferienhäuser vermitteln und garantieren natürlich den gewohnten Naxos-Verwöhn-Service    
+    </beschreibung> 
+    <beschreibung typ="text" lang="de">
+        Angebote
+    </beschreibung>
+    <verweise>
+    	<verweis ziel="antonis_1.xml" titel="Haus Antonis I"/>
+    	<verweis ziel="antonis_2.xml" titel="Haus Antonis II"/>
+    	<verweis ziel="antonis_3.xml" titel="Haus Antonis III"/>
+    	<verweis ziel="giorgos.xml" titel="Häuser Giorgos"/>
+    	<verweis ziel="sacharo.xml" titel="Häuser Sacharo"/>
+    	<verweis ziel="theologos.xml" titel="Häuser Theologos I + II"/>
+    </verweise>
+</seite>  

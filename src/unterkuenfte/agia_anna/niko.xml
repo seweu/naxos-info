@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Hotel Niko</titel>
+	<beschreibung typ="bild" src="images/niko/plakaniko.jpg"/>
+	<beschreibung typ="bild" src="images/niko/plakaniko2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Die Studios und die angeschlossene Taverne von Niko und Maria liegen direkt 
+		am Strand der Plaka und sind nur 20 Meter vom Meer entfernt. 
+		Hier ist der Sandstrand ganz besonders schön und lediglich 
+		in den Monaten Juli und August gut besucht. In meinen Augen 
+		(feiner Sand, wenig Leute, Dünen wie an der Nordsee...) der schönste Strandabschnitt.		
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The studios and the taverna of Niko and Maria are right at the beach and only 20 m away from the water.
+		Here the sandy beach is specially beautiful and only well visited in jul/aug.
+		In my eyes this part of Plaka beach is the nicest. Fine sand, dunes, few people...	
+	</beschreibung>	
+	<preis lang="de">
+		 Die Studios (Doppelzimmer mit Küche, Bad und Balkon/Terrasse) liegen 
+		- je nach Reisezeit und Lage - zwischen &#x20AC; 40 - 65. 
+		Lediglich Ende Juli und August liegen die Preise bei &#x20AC; 70 - 75. 
+		2 Zimmer-Appartements mit Bad, Küche und großer Terrasse für 4 Personen 
+		&#x20AC; 50 - 75 und im Juli/August &#x20AC; 83 - 110 
+	</preis>
+	<preis lang="en">
+		The studios will be - depending on traveling time - between &#x20AC; 40-65. 
+		Jul/aug &#x20AC; 70-75.
+		Apartments with two rooms &#x20AC; 50 - 75. Jul+Aug 83 - 110	
+	</preis>
+</seite>

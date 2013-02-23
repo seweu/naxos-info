@@ -1,0 +1,61 @@
+<html>
+<head>
+        <title>Naxos-Info</title>
+        <meta name="author" content="Sebastian Weuthen"/>
+        <meta name="publisher" content="Katharina Glanz"/>
+        <meta name="copyright" content="Sebastian Weuthen"/>
+        <meta name="keywords" content="naxos, kykladen, griechenland, hotel, ferienwohnung, immobilien, inselh&uuml;pfen, greece, cyclades"/>
+        <meta name="description" content="Wir buchen Ihren Urlaub auf Naxos, vermitteln Zimmer, planen Unterhaltungsprogramm, verwalten Ihr Ferienhaus"/>
+        <meta name="page-topic" content="Reise Tourismus"/>
+        <meta name="page-type" content="Bild Foto, HTML-Formular"/>
+        <meta name="audience" content="Alle"/>
+        <meta name="robots" content="INDEX,FOLLOW"/>
+        <meta name="date" content="2009-10-04"/>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <script language="JavaScript"/>
+            if(parent.frames.length == 0)
+            {
+            	window.top.location = "index.htm";
+            }
+            bild_1 = new Image();
+            bild_1.src = "images/menue/l_felsen.gif";
+            bild_2 = new Image();
+            bild_2.src = "images/menue/l_boot.gif";
+            bild_3 = new Image();
+            bild_3.src = "images/menue/l_sonne.gif";
+            bild_4 = new Image();
+            bild_4.src = "images/menue/l_baum.gif";
+            function Bildwechsel(bildnr,bildobjekt)
+            {
+                window.document.images[bildnr].src = bildobjekt.src;
+            }
+        </script>
+</head>
+<body background="images/menue/fr_l_bg.gif">
+	<a href="de/unterkuenfte.xml" target="body" onMouseOver="Bildwechsel(8,bild_1);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_unterkuenfte.png" border="0"/>
+	</a>
+	<a href="de/service.xml" target="body" onMouseOver="Bildwechsel(8,bild_2);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_service.png" border="0"/>
+	</a>
+	<a href="de/hausverwaltung.xml" target="body" onMouseOver="Bildwechsel(8,bild_4);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_hausverwaltung.png" border="0"/>
+	</a>
+	<a href="hausverkauf/a_hausverkauf.htm" target="body" onMouseOver="Bildwechsel(8,bild_1);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_hausverkauf.png" border="0"/>
+	</a>	
+	<a href="de/kontakt.xml" target="body" onMouseOver="Bildwechsel(8,bild_2);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_kontakt.png" border="0"/>
+	</a>
+	<a href="a_impressionen.htm" target="body" onMouseOver="Bildwechsel(8,bild_1);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_impressionen.png" border="0"/>
+	</a>
+	<a href="a_links.htm" target="body" onMouseOver="Bildwechsel(8,bild_4);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_links.png" border="0"/>
+	</a>
+	<a href="http://www.naxos-info.de/forum/" target="body" onMouseOver="Bildwechsel(8,bild_1);" onMouseOut="Bildwechsel(8,bild_3)">
+		<img class="menue" src="images/menue/de_m_forum.png" border="0"/>
+	</a>
+	<img class="menue" src="images/menue/l_sonne.gif" border="0"/>
+</body>
+</html>

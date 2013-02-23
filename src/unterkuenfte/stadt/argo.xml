@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Hotel Argo</titel>
+	<titel lang="en">Hotel Argo</titel>
+	<beschreibung typ="bild" src="images/argo/argo1.jpg"/>
+	<beschreibung typ="bild" src="images/argo/argo2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Mitten in einem ruhigen Stadtteil von Naxos-Stadt (5 Min zum Zentrum und 2 Min zum Strand)
+		liegt dieses wunderbar gepflegte Haus mit Studios und Apartments.
+		Das Hotel wird von einer ganz reizenden Familie sehr kultiviert geführt und die Atmosphäre ist einmalig nett.
+		Die Zimmer sind liebevoll eingerichtet und es fehlt an nichts. Kühlschrank oder Küche, AC, Föhn, TV... gehören hier zum Standard.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Right in a quiet corner of Naxos Chora (5 Min to the centre and 2 Min. to Ag. Georgio's beach) you will find this extremely well kept little hotel.
+		The rooms are furnished with good taste and you will not miss anything. Kitchen, AC, Hair-dryer, TV belong to the good standart.
+	</beschreibung>	
+	<preis lang="de">
+		Je nach Reisezeit und Appartementgröße liegen die Preise
+		zwischen &#x20AC; 30-70 im DZ (Studio) oder &#x20AC; 40-85 im 2-Raum-Appartement.
+		Es besteht die Möglichkeit im Haus sehr gut zu frühstücken. Der Frühstückspreis liegt bei &#x20AC; 7/ p.P.	
+	</preis>
+	<preis lang="en">
+		Depending on the size of apartment and of travelling time during the season the prices are &#x20AC; 30 - 70 for a double and &#x20AC; 40-85 for a 2 room apartment.
+		Very good breakfast will be &#x20AC; 7 p.P
+	</preis>	
+</seite>

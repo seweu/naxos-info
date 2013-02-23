@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+	<beschreibung typ="text" lang="de">Wir sind das ganze Jahr für Sie per Telefon und Email zu erreichen</beschreibung>
+	<beschreibung typ="text" lang="en">You can contact us the whole year by phone, email</beschreibung>	
+	<beschreibung typ="text" lang="de"><span class="fett">- Sie stellen eine Aufgabe, wir lösen sie! -</span><br/><br/></beschreibung>
+	<beschreibung typ="text" lang="en"><span class="fett">- You set us a task - we solve it! -</span><br/><br/></beschreibung>	
+	<beschreibung typ="text">Daniela Martin</beschreibung>
+	<beschreibung typ="text">Odos Monis, Chora, GR-84300 Naxos<br/><br/></beschreibung>
+	<beschreibung typ="text">e-mail: <verweis ziel="mailto:urlaub@naxosreisen.de" titel="urlaub@naxosreisen.de"/></beschreibung>
+	<beschreibung typ="text"><br/>Tel +30 22850 29121</beschreibung>
+	<beschreibung typ="text">Mobil +30 694 8853608<br/><br/></beschreibung>
+	
+	<verweis typ="bottom" lang="de" ziel="#" titel="eben genau so, wie Sie es sich vorstellen !"/>
+	<verweis typ="bottom" lang="en" ziel="#" titel="just like  you imagine it to be !"/>
+	
+</seite>  

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Aegean Palace (Drei Brüder)</titel>
+	<titel lang="en">Aegean Palace (Drei Brüder)</titel>
+	<beschreibung typ="bild" src="images/aegean_palace/aegean5.jpg"/>
+	<beschreibung typ="bild" src="images/aegean_palace/aegean3.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Seit Jahren arbeiten wir mit den beiden Häusern der 3 Brüder zusammen. 
+		Noch nie ist ein Gast hier abgereist, der nicht zufrieden war...
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Many years now we successfully work with the 2 smaller hotels of the 3 brothers.
+		Never one of our guests was not happy with his stay there.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		In diesem Jahr hat die Familie ein Hotel eröffnet, das nun an der Plaka sicherlich die 1. Adresse ist. 
+		Es ist ihnen gelungen hinter der netten Kykladenarchitektur ein Hotel der Extraklasse zu verstecken. 
+		Die typische Bebauung der Plaka ist nicht durch einen Hotelpalast zerstört wurden.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This year the family opened a hotel which surely is the No. 1 now in Plaka.
+		They managed to keep the traditional Cycladic architecture and "hide" a 1st class hotel inside. 
+		The wonderful Plaka did not get destroyed by a huge hotel complex.
+	</beschreibung>		
+	<beschreibung typ="text" lang="de">
+		Hier gönnen Sie sich das Besondere. Den schönsten Strand der Insel verbunden mit dem bisschen "Mehr an Komfort". 
+		Es wird Ihnen an nichts fehlen. Unnötig hier alle Vorzüge aufzulisten.
+		Es ist alles da... Vom Schwimmbad bis zur Sauna. Von der 24 Std.Rezeption bis zum Konferenzraum.			
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Here you will treat yourself to something special. The most beautiful beach on the island in combination with the little extra in comfort.
+		It is useless to give a list of everything you will find.
+		You simply will not miss anything! From the big pool to a sauna, from a 24 h reception to conference rooms.
+	</beschreibung>	
+	<beschreibung typ="bild" src="images/aegean_palace/aegean2.jpg"/>
+	<beschreibung typ="bild" src="images/aegean_palace/aegean6.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Wie die Taverne der 3 Brüder liegt das Hotel direkt am Plakastrand und nur 100  Meter vom Meer entfernt. 
+		Der Sandstrand erinnert mit seinen Dünen an die Inseln der Nordsee und das Wasser fällt langsam ab. 
+		So sind auch Kinder hier besonders gut aufgehoben.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">	
+		Like the 3 brothers restaurant the hotel is direct at Plaka beach and only 100 m from the most beautiful water. 
+		The white sandy beach falls only slowly into the water - so children are safe.
+	</beschreibung>
+	<preis lang="de">
+		EZ in der Vorsaison 65 &#x20AC; / Zwischensaison &#x20AC; 95 / Hochsaison &#x20AC; 150
+	</preis>
+	<preis lang="en">
+		Single out of season &#x20AC; 65 - middle &#x20AC; 95 - high &#x20AC; 150
+	</preis>
+	<preis lang="de">
+		DZ in der Vorsaison 75 &#x20AC; / Zwischensaison &#x20AC; 120 / Hochsaison &#x20AC; 185
+	</preis>
+	<preis lang="en">
+		Double out of season &#x20AC; 75 - middle &#x20AC; 120 - high &#x20AC; 185
+	</preis>
+	<preis lang="de">
+		Appartment (2-Raum) in der Vorsaison 95 &#x20AC; / Zwischensaison &#x20AC; 220 / Hochsaison &#x20AC; 300
+	</preis>
+	<preis lang="en">
+		Appartment (2-rooms) out of season &#x20AC; 95 - middle &#x20AC; 220 - high &#x20AC; 300
+	</preis>		
+	<preis lang="de">
+		Suite zwischen &#x20AC; 90 und &#x20AC; 300
+	</preis>
+	<preis lang="en">
+		Suite between &#x20AC; 90 and &#x20AC; 300
+	</preis>		
+	<preis lang="de">
+		Das Frühstücksbuffet ist inkl.
+	</preis>
+	<preis lang="en">
+		Breakfast included
+	</preis>	
+</seite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Hotel Dilino</titel>
+	<titel lang="en">Hotel Dilino</titel>
+	<beschreibung typ="bild" src="images/dilino/dilino1.jpg"/>
+	<beschreibung typ="bild" src="images/dilino/dilino2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Diese Hotelanlage liegt absolut ruhig am Hang in einem kleinen aber gepflegten Garten mit Blick in Richtung 
+		Sonnenuntergang auf den ca. 300 m entfernten Sandstrand von Agios Prokopios.
+		Den gleichnamigen Ort mit seinen Tavernen und Geschäften, der ungefähr 4 km südlich des Hauptortes liegt, erreicht man ebenfalls nach ca. 300 Metern.
+		Eine Bushaltestelle mit Verbindungen nach Naxos-Stadt und anderen Stränden befindet sich in ca. 150 m Entfernung.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Dilino Hotel lies very calm and quiet in the middle of a hill in a small but beautiful garden viewing southwest to the sandy beach of Agios Prokopios which is about 300 m away.
+		The village nearby (also named like the beach: Agios Prokopios) is situated approximately 4 km south of Naxos-Town. There are shops and taverns which also could be reached in about 300 m.
+		A bus stop is close to the hotel (150 m) and offers the possibility to go other beaches or to Naxos-Town.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Das Dilino wurde 1994 mit 21 Wohneinheiten erbaut und wird von dem jungen griechischen Besitzerpaar mit viel Engagement,
+		aufmerksam und herzlich geführt.
+		Im Haupthaus befinden sich die Rezeption mit Faxservice und Möglichkeit zur Internetnutzung sowie der Bar mit Kamin,
+		Satelliten-TV und großer Gemeinschaftsterrasse.
+		Die Wohneinheiten befinden sich alle im angrenzenden Nebengebäude
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The Dilino was built in 1994 with 21 studios/apartments. It is run by the young Greek owners (English spoken) in an attentively, 
+		friendly and warm-hearted manner. In the main building there is the reception with fax service and access possibility to the internet/email.
+		Also there is the bar with an open fire and satellite TV as well as the big porch.
+		The studios/apartments are all situated in a conterminal building.
+	</beschreibung>	
+	<preis lang="de">
+		Die Zimmerpreise liegen für 2-3 Personen je nach Reisezeit und Größe zwischen &#x20AC; 35 und &#x20AC; 75.
+		Die 2-Raum-Appartments für 4 Personen zwischen &#x20AC; 55 und 110.
+	</preis>
+	<preis lang="en">
+		Room prices for 2-3 persons will be - depending on size and travelling time - between &#x20AC; 35 and &#x20AC; 75.
+		2-room-apartments for 4 persons will be between &#x20AC; 55 and &#x20AC; 110.
+	</preis>	
+</seite>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Villa Kazilieris</titel>
+	<titel lang="en">Villa Kazilieris</titel>
+	<beschreibung typ="bild" src="images/hausplaka/jakob_aussen.jpg"/>
+	<beschreibung typ="bild" src="images/hausplaka/jakob_innen.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Dieses private Ferienhaus für 6 Personen (und ggf. 2 Kinder) liegt hoch über dem Strand der Plaka. 
+		Der unverbaute Blick eröffnet von den verschiedenen Terrassen einen sagenhaften Blick zum Meer und in die Berge.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This private summer cottage for 6 persons (and maybe 2 children) you will find above Plaka beach. 
+		The unobstructed view from the different terraces opens an incredible look down to the sea and into the mountains.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Der windgeschützte Innenhof läd zum Träumen ein ...
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The sheltered courtyard invites you to stay and dream ...
+	</beschreibung>			
+	<beschreibung typ="bild" src="images/hausplaka/jakob_haengematte.jpg"/>
+	<beschreibung typ="bild" src="images/hausplaka/jakob_terrasse.jpg"/>
+	<beschreibung typ="text" lang="de">
+		... und eigentlich könnte man auch gleich hier oben bleiben und den Trubel der Welt vergessen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		... and, actually, one could also remain up here and forget the rest of the world.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Das Haus verfügt über 3 Schlafzimmer, zwei Bäder, ein wunderschönes Wohnzimmer mit großer Küche, Innenhof, Terrassen u.v.m .
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The house has 3 bedrooms with a private bath each, a wonderful sitting room with big kitchen, inner courtyard, terraces ...
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Dieser Platz ist ideal geeignet für Menschen, die einfach mal ihre Ruhe haben wollen. Das Ausleihen eines kleines Jeeps ist jedoch empfohlen, 
+        da der kürzeste Weg runter zum Meer nicht weit aber etwas holprig ist.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The house is suited ideally for people who simply want to have their peace and quiet.
+		Nevertheless, the borrowing of a small jeep is recommended, because the road down to the sea is not far but a little rough.
+	</beschreibung>		
+	<preis lang="de">
+		 Je nach Reisezeit und Aufenthaltsdauer kostet das Haus pro Tag zwischen &#x20AC; 120 und &#x20AC; 150. 
+	</preis>
+	<preis lang="en">
+		According to holiday season and duration of your stay the rent will be between &#x20AC; 120 and &#x20AC; 150/day.
+	</preis>
+	<preis lang="de">
+		 Endreinigung inkl. Wäsche &#x20AC; 130 
+	</preis>	
+	<preis lang="en">
+		Cleaning incl. sheets, towels etc. &#x20AC; 130	
+	</preis>	
+</seite>

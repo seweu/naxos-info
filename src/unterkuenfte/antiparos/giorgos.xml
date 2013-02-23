@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Häuser Giorgos</titel>
+	<beschreibung typ="text">
+		2 bis 8 Pers., 1x4 Zimmer, 2x2 Zimmer, 1x1 Zimmer
+		4 km außerhalb Antiparos  am Meer
+	</beschreibung>	
+	<beschreibung typ="bild" src="images/giorgos_1.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Gruppe von 4 neuen Häusern am Meer mit herrlicher Aussicht, 
+		sehr großem Garten mit vielen Bäumen, vollkommen sicher für Kinder, 
+		da die Strasse 100 Meter entfernt ist.
+	</beschreibung>	 
+	<beschreibung typ="text" lang="de">
+		100 Meter unterhalb der Häuser kleiner privater Sandstrand
+	</beschreibung>			
+	<beschreibung typ="text" lang="de">
+		150 Meter vor den Häusern der große Sandstrand von Glyfa.
+	</beschreibung>			
+	<beschreibung typ="text" lang="de">
+		4 km südlich des Dorfes Antiparos (gute Verbindungsstrasse mit regelmäßigem Busbetrieb). 
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Kleine Taverne in fünf Gehminuten Entfernung.
+	</beschreibung>	
+	<preis lang="de">
+		Großes Haus 5-8 Personen - je nach Reisezeit zwischen &#x20AC; 100 und &#x20AC; 140
+		Steinhaus 2-4 Personen und freistehendes Haus für 3 Personen
+		- je nach Reisezeit zwischen &#x20AC; 80 und &#x20AC; 110	
+	</preis>	
+</seite>

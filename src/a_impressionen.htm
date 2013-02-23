@@ -1,0 +1,34 @@
+<html>
+<head>
+	<!-- load the dojo toolkit base -->
+	<script type="text/javascript" src="_dojotoolkit/dojo/dojo.js"
+		djConfig="parseOnLoad:true, isDebug:true">
+	</script>
+	<style type="text/css">
+		@import "/_dojotoolkit/dojox/image/resources/image.css";
+	</style>
+	<script type="text/javascript">
+	  dojo.require("dojox.image.Gallery");
+	  dojo.require("dojo.data.ItemFileReadStore");
+	  dojo.require("dojo.parser");
+	</script>
+</head>
+<body>
+	<div jsId="imageItemStore" dojoType="dojo.data.ItemFileReadStore" url="images.json">
+	</div>
+	
+	<div id="gallery2" dojoType="dojox.image.Gallery" imageWidth="500" imageHeight="500">
+		<script type="dojo/connect">
+		var itemRequest = {
+			query: {},
+			count: 20
+		};
+		var itemNameMap = {
+			imageThumbAttr: "thumb",
+			imageLargeAttr: "large"
+		};
+		this.setDataStore(imageItemStore, itemRequest, itemNameMap);
+		</script>
+	</div>
+</body>
+</html>

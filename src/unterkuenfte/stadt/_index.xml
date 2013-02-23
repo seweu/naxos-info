@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Wohnen in der Stadt Naxos (St. George Beach)</titel>
+	<titel lang="en">Staying in the town of Naxos (St. George's Beach)</titel>
+    <beschreibung typ="bild" src="images/_index/chora.jpg"/>
+    <beschreibung typ="text" lang="de">
+    	Diese Lage eignet sich für Urlauber, die eher in der Nähe der Stadt wohnen wollen.
+    	Hier ist man mit wenigen Schritten mitten in der Chora (Hauptort),
+    	schnell am Stadtstrand St. George (Surfschule) und in der Nähe von vielen Tavernen,
+    	Restaurant und Geschäften.
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+    	This destination is very suitable for people who rather live close to town.
+    	With a few steps you are right in the middle of the old-town,
+    	close to St. George's Beach (Surf-School), and not far from many taverns,
+    	restaurants and shops.
+    </beschreibung>
+    <beschreibung typ="text" lang="de">
+		Vom Hafen aus fahren 1/2 -stündlich Busse zu den sicherlich schöneren Stränden von Agia Anna und Agios Prokopios.
+		Ganz unabhängig ist man natürlich mit einem geliehenen Mofa oder Auto, die überall auf der Insel recht günstig zu leihen sind.    
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+    	From the harbour of Naxos you easily catch the bus (every 1/2 hour) to the slightly nicer beaches of Agia Anna and Agios Prokopios.
+    	Completely independent you will be with a small bike or a car, which you'll find easily in town.
+    </beschreibung>      
+    <beschreibung typ="text" lang="de">
+        Angebote
+    </beschreibung>
+    <beschreibung typ="text" lang="en">
+		Offers
+    </beschreibung>    
+    <verweise>
+    	<verweis ziel="kathfewo.xml" titel="Ferienwohnung Katerina"/>
+    	<verweis ziel="antonia.xml" titel="Haus Antonia"/>
+    	<verweis ziel="castrofewo.xml" titel="Ferienwohnung im Castro"/>
+	</verweise>
+	<verweise>
+		<verweis ziel="argo.xml" titel="Hotel Argo"/>
+		<verweis ziel="naxos_beach.xml" titel="Hotel Naxos Beach"/>
+		<verweis ziel="manoli.xml" titel="Hotel Manoli"/>
+		<verweis ziel="vakos.xml" titel="Hotel Vakos"/>
+	</verweise>
+	<verweise>
+		<verweis ziel="filis.xml" titel="Vila Filis"/>
+	</verweise>
+</seite>  

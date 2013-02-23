@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+        <titel lang="de">Stelida Ferienwohnung</titel>
+        <titel lang="en">Stelida Ferienwohnung</titel>
+        <beschreibung typ="bild" src="images/stelida/stelida1.jpg"/>
+        <beschreibung typ="bild" src="images/stelida/stelida2.jpg"/>
+        <beschreibung typ="text" lang="de">
+                Die Halbinsel Stelitha liegt ca. 2 km außerhalb der Stadt.
+                Bis zu den schönen Sandstränden führt man nach Prokopios 2 km und zur Plaka 4 km.
+        </beschreibung>
+        <beschreibung typ="text" lang="en">
+                The hill of Stelida you will find 2 km outside of Naxos town and 2 km from the beautiful beach of Ag. Prokopios.
+        </beschreibung>
+        <beschreibung typ="text" lang="de">
+                Die Ferienwohnung liegt mitten in einem wunderbaren Garten auf dem Dach eines gepflegten Privathauses.
+                Hier können 4 Personen herrlich gemeinsam Urlaub machen, da beide Doppelzimmer ihren eigenen Ausgang haben und die Küche getrennt von den Zimmern zu erreichen ist.
+                Rund um die Wohnung liegen gleich 3 Terrassen, so dass man sich den Sitzplatz je nach Windrichtung aussuchen kann.
+        </beschreibung>
+        <beschreibung typ="text" lang="en">
+                The apartment is situated in a wonderful garden of a private house.
+                It is surrounded by 3 beautiful spacy terraces. Here 4 persons can spend a relaxing holiday.
+        </beschreibung>
+        <beschreibung typ="bild" src="images/stelida/stelida3.jpg"/>
+        <beschreibung typ="bild" src="images/stelida/stelida4.jpg"/>
+        <beschreibung typ="text" lang="de">
+                Da der Eigentümer das Haus privat nutzt, ist die Ausstattung der Zimmer entschieden geschmackvoller gewählt,
+                als in den meisten Ferienwohnungen der Insel.
+        </beschreibung>
+        <beschreibung typ="text" lang="en">
+                The owner uses the house privately and so you will find better comfort than in many other places.
+        </beschreibung>
+        <preis lang="de">
+                Die Wohnung kostet &#x20AC; 90/Tag für 4 Personen.
+        </preis>
+        <preis lang="en">
+                The apartment will be &#x20AC; 90/day for 4 persons
+        </preis>
+        <preis lang="de">
+               Endreinigung inkl. Wäsche &#x20AC; 80
+        </preis>
+        <preis lang="en">
+                Cleaning incl. sheets, towels etc. &#x20AC; 80
+        </preis>
+</seite>

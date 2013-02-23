@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Theologos I + II</titel>
+	<beschreibung typ="text" lang="de">
+		2 freistehende Häuser, etwas außerhalb des Dorfes (500 m) direkt am Meer gelegen. 
+		Sie bieten viel Platz zum Spielen, sind 100 m voneinander und 200 m vom Sandstrand entfernt, 
+		wo im Sommer Surfbretter vermietet werden (siehe Foto unten). 
+		Nur 50 m unterhalb der Häuser befindet sich ein kleiner, 
+		fast privater schattiger Sandstrand.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/theologos_1.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Unteres Haus (bis 4 Pers., 3 Zimmer)
+		2 Schlafzimmer (4 Betten), Wohnküche, WC/ Dusche. 
+		Großer überdachter Balkon mit schöner Aussicht aufs Meer und Paros.
+	</beschreibung>	
+	<beschreibung typ="bild" src="images/theologos_2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Oberes Haus (bis 5 Pers., 3 Zimmer)
+		2 Schlafzimmer (4 Betten), Wohnküche (Bettsofa), WC/ Dusche. 
+		Gedeckter Balkon mit schöner Aussicht aufs Meer und die Insel Paros
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Aussicht von den Häusern Theologos
+	</beschreibung>	
+	<beschreibung typ="bild" src="images/theologos_3.jpg"/>
+	<preis lang="de">
+		Unteres Haus - je nach Reisezeit zwischen &#x20AC; 80 und &#x20AC; 110
+	</preis>
+	<preis lang="de">
+		Oberes Haus - je nach Reisezeit zwischen &#x20AC; 70 und &#x20AC; 100
+	</preis>	
+</seite>

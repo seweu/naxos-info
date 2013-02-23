@@ -1,0 +1,144 @@
+/* ****************************************************** */
+/* Author: Sebastian Weuthen
+/* Style-Sheet-Definitionen
+/* Last Modification: 2002-09-28
+/* ****************************************************** */
+
+body, table, tr, th, td, div {
+font-size:12pt;
+font-family:arial;
+}
+
+body.body {
+background-image:url(images/menue/tor.gif);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+
+#naxostor {
+text-align:left;
+background-image:url(images/menue/tor.gif);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:225px 100px;
+}
+
+#top {
+position:absolute;
+width:800px;
+height:100px;
+text-align:center;
+}
+
+#content {
+position:absolute;
+top:100px;
+width:800px;
+padding-top:50px;
+height:310px;
+text-align:center;
+}
+
+#bottom {
+position:absolute;
+top:460px;
+width:800px;
+height:50px;
+text-align:center;
+}
+
+div.fenster {
+width:800px;
+text-align:center;
+}
+
+.unten
+{
+text-align:center;
+font-size:7pt;
+width:800px;
+}
+
+h1 {
+font-size:14pt; 
+font-family:arial;
+font-weight:bold;
+}
+
+h1.allgemein {
+font-size:12pt; 
+font-family:arial;
+font-weight:bold;
+margin-top:0px;
+margin-bottom:25px;
+}
+
+p.allgemein {
+text-align:center;
+margin-bottom:0px;
+margin-top:5px;
+}
+
+a:link
+{
+color:#eeaa33;
+text-decoration:none;
+font-weight:bold;
+}
+
+a:visited
+{
+color:#eeaa33;
+text-decoration:none;
+font-weight:bold;
+}
+
+a:active
+{
+color:#eeaa33;
+text-decoration:none;
+}
+
+a.klein:link
+{
+color:#eeaa33;
+text-decoration:none;
+font-size:7pt;
+}
+
+a.klein:visited
+{
+color:#eeaa33;
+text-decoration:none;
+font-size:7pt;
+}
+
+a.klein:active
+{
+color:#eeaa33;
+text-decoration:none;
+font-size:7pt;
+}
+
+img.menue {
+margin-top:5px;
+margin-bottom:10px;
+}
+
+img.hotel {
+margin-right:10px;
+}
+
+span.klein
+{
+font-size:8pt;
+}
+
+span.fett
+{
+font-weight:bold;
+}
+
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+	<titel lang="de">
+		Wir vermitteln und buchen Unterkünfte für nette Individualtouristen und lustige Kleingruppen
+	</titel>
+	<titel lang="de">
+		Und unser persönlicher Inselservice <br/>
+		bietet unseren Gästen das Stückchen Verwöhnung mehr...
+	</titel>			
+	<titel lang="en">
+		We organize the arrangement and booking of your accomodation
+	</titel>
+	<titel lang="en">
+		(mainly for individual tourists and small groups)<br/>
+	</titel>
+	
+	<verweise>
+	<verweis typ="subfolder" ziel="../unterkuenfte/stadt" titel="Naxos Stadt" beschreibung="(St. George Beach)"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/agia_anna" titel="Agia Anna" beschreibung="(Plaka Beach)"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/prokopios" titel="Ag. Prokopios"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/mikri_vigla" titel="Mikri Vigla"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/tripodes" titel="Tripodes"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/glinado" titel="Glinado"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/motsouna" titel="Motsouna" beschreibung="(Ostküste)"/>
+	<verweis typ="subfolder" ziel="../unterkuenfte/landkarte" titel="Landkarte"/>
+	</verweise>
+	
+	<verweis typ="bottom" lang="de" ziel="service.xml" titel="eben genau so, wie Sie es sich vorstellen ..."/>
+	<verweis typ="bottom" lang="en" ziel="service.xml" titel="just like  you imagine it to be..."/>
+
+
+</seite>  

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Ferienhaus IV (Aris)</titel>
+	<titel lang="en">Ferienhaus IV (Aris)</titel>
+	<beschreibung typ="bild" src="images/ferienhausIV/plaka4.jpg"/>
+	<beschreibung typ="bild" src="images/ferienhausIV/plaka4_2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Ein gemütliches privates Ferienhaus für 6 Personen bietet eine nette deutsche Familie an. 
+		Da sie das Haus auch privat nutzen, wird es Ihnen an nichts fehlen. 
+		Das Haus liegt in einem ruhigen Wohngebiet ca. 750 m oberhalb des schönsten Strandes der Insel - der Plaka.
+		Von den diversen Terrassen des Hauses erschließt sich ein wunderbarer Rundumblick in die Berge und über das Meer.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		A very comfortable house is offered by a german family for 6 persons. 
+		The house is used privately and you will find all the comfort you need to spend a real relaxing holiday.
+		The house is situated in a quiet group of houses only 750 m from the most beautiful beach of Plaka.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Wir empfehlen bei allen Ferienhäusern das Ausleihen eines kleinen Wagens oder eines Mofas.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		From the various terraces you will have a splendid view over to the sea facing the island of Paros.
+	</beschreibung>					
+	<preis lang="de">
+		 April + Oktober 120 &#x20AC;
+	</preis>
+	<preis lang="en">
+		April + October 120 &#x20AC;
+	</preis>
+	<preis lang="de">
+		 Mai, Juni und September 150 &#x20AC;
+	</preis>
+	<preis lang="en">
+		May, June and September 150 &#x20AC;
+	</preis>	
+	<preis lang="de">
+		 Juli und August 180 &#x20AC;
+	</preis>
+	<preis lang="en">
+		July and August 180 &#x20AC;
+	</preis>	
+	<preis lang="de">
+		 Endreinigung inkl. Wäsche &#x20AC; 120 
+	</preis>
+	<preis lang="en">
+		Cleaning incl. sheets and towels &#x20AC; 120	
+	</preis>	
+</seite>                

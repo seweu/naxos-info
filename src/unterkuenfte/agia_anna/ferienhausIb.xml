@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Plaka Ferienhaus Ib</titel>
+	<titel lang="en">Plaka Ferienhaus Ib</titel>
+	<beschreibung typ="bild" src="images/ferienhausIb/plaka1b.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Nur 150 m vom Wasser entfernt liegt dieses nette Ferienhaus für 4 Personen. 
+		In Kombination mit dem Nachbarhaus (FH Henning) können hier 8 Personen gemütlich 
+		Urlaub gemeinsam machen und dennoch Rückzugsmöglichkeiten haben.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Only 150 m from the most beautiful beach of Plaka you will find this nice little house for 4 persons.
+		In combination with the house next door (Plaka I Henning) even 8 persons can spend a phantastic holiday with the private space for everyone.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Die Tavernen der Plaka sind zu Fuß erreichbar und ein Supermarkt ist ca. 300 m entfernt. 
+		Der Bus zum Hafen von Naxos fährt regelmäßig bis an die Plaka und zurück. 
+		Noch schöner ist es sicher, wenn man einen kleinen Leihwagen oder ein Moped zur Verfügung hat.
+	</beschreibung>	
+	<preis lang="de">
+		 April + Oktober 90 &#x20AC;
+	</preis>
+	<preis lang="en">
+		April + October &#x20AC; 90 
+	</preis>
+	<preis lang="de">
+		 Juli und August 125 &#x20AC;
+	</preis>
+	<preis lang="en">
+		July and August &#x20AC; 125
+	</preis>	
+	<preis lang="de">
+		 Mai, Juni und September 105 &#x20AC;
+	</preis>
+	<preis lang="en">
+		May, June and September &#x20AC; 105
+	</preis>	
+	<preis lang="de">
+		 Endreinigung inkl. Wäsche &#x20AC; 100 
+	</preis>	
+	<preis lang="en">
+		Cleaning incl. sheets, towels etc. &#x20AC; 100	
+	</preis>
+</seite>

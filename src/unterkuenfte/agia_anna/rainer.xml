@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Plaka Ferienhaus III (zu verkaufen)</titel>
+	<titel lang="en">Plaka Ferienhaus III (for sale)</titel>
+	<beschreibung typ="bild" src="images/rainer/rainer1.jpg"/>
+	<beschreibung typ="bild" src="images/rainer/rainer2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Oberhalb der Plaka steht dieses einmalige, private Landhaus. 
+		Von diesem Grundstück ist der "Rundumblick" über das Meer zu den Inseln, 
+		die Stadt Naxos und die Berge ungehindert möglich. Wer wirklich abschalten will 
+		und die ungestörte Ruhe und Entspannung sucht, ist hier genau richtig.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Above Plaka Beach you will find this unique private cottage. 
+		From this location you have a nice view down to the sea, to Naxos town and into the mountains. 
+		If you really want to take your mind off everything and you are searching real peace, this is your place.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/rainer/rainer3.jpg"/>
+	<beschreibung typ="bild" src="images/rainer/rainer4.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		Fernab von den Lichtern der Stadt öffnet sich nachts der Himmel mit all seinen Sternen 
+		und sogar die Milchstraße ist zu sehen...
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		At night and away from the lights of the town you can see and enjoy the million stars...
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Das Haus verfügt über 3 Doppelzimmer, 1 EZ, einen großen Wohnraum mit Kamin, mehrere Terrassen, 
+		einen Dachgarten und ein 3500 m2 großes Grundstück mit Weingarten. Eine große Familie 
+		oder 3 Paare können hier leicht gemeinsam Urlaub machen. Das Haus verfügt über 3 Doppelzimmer, 
+		1 EZ, einen großen Wohnraum mit Kamin, mehrere Terrassen, 
+		einen Dachgarten und ein 3500 m2 großes Grundstück mit Weingarten. 
+		Eine große Familie oder 3 Paare können hier leicht gemeinsam Urlaub machen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The house has 3 double rooms, 2 bathrooms, a big livingroom with a fire place, several terraces and a 3500 m2 garden with a vineyard.
+		A large family or 3 couples can easily spent their holiday together.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/rainer/rainer5.jpg"/>	
+	<beschreibung typ="text" lang="de">
+		Eine solch ungestörte Ruhe findet sich nicht an der "Bushaltestelle". 
+		Das Ausleihen eines robusten Wagens ist daher empfehlenswert.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Such peace and silence you will not find next to a "busstop". We suggest to rent a tough little car.
+	</beschreibung>				
+	<preis lang="de">
+		 Der Mietpreis für dieses Haus beträgt &#x20AC; 140 - 180/Tag 
+	</preis>
+	<preis lang="en">
+		The rent will be &#x20AC; 140 - 180/day.
+	</preis>
+	<preis lang="de">
+		 Endreinigung inkl. Wäsche &#x20AC; 150 
+	</preis>	
+	<preis lang="en">
+		Cleaning incl. sheets, towels etc. &#x20AC; 150	
+	</preis>	
+</seite>

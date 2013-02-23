@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Villa Morgana</titel>
+	<titel lang="en">Villa Morgana</titel>
+	<beschreibung typ="bild" src="images/morgana/morgana1.jpg"/>
+	<beschreibung typ="bild" src="images/morgana/morgana2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Für den anspruchsvollen Gast ist gleich an dem schönsten Strandabschnitt der Plaka etwas ganz Besonderes entstanden. 
+		Die Villa Morgana liegt völlig ruhig nur 20 Meter vom Wasser entfernt. 
+		Im Haus gibt es nur 4 Wohnungen. 2 große 1-Zimmer Appartements 
+		mit Küche für 2-3 Personen und 2 große 2-Zimmer-Appartements für 4-5 Personen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		For our guests who expect the "little something more" the most beautiful Plaka beach offers a great new place.
+		The Villa Morgana lies totally quiet and peaceful only 20 m away from the sea. 
+		The house has only two big apartments with 2 double rooms for 4-5 persons and 2 smaller ones for 2-3 persons.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/morgana/morgana3.jpg"/>
+	<beschreibung typ="bild" src="images/morgana/morgana4.jpg"/>
+	<beschreibung typ="text" lang="de">
+        Wir haben selten ein Haus gesehen, das mit so viel Liebe und Geschmack eingerichtet wurde und in dem an Ausstattung und Komfort 
+        wirklich keine Wünsche offen bleiben. Der Service ist einmalig und die tägliche Reinigung eine Selbstverständlichkeit.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		We rarely saw a house which was furnished with so much love and taste.
+		It is comfortable and convenient that all your wishes should be fulfilled.
+		The service is great and daily cleaning goes without saying.
+	</beschreibung>		
+	<preis lang="de">
+		Komfort hat allerdings auch in Griechenland seinen Preis.
+		Die kleinen Wohnungen im Parterre kosten - je nach Saison - 
+		zwischen &#x20AC; 90 und &#x20AC; 160/Tag.
+		Die großen Wohnungen für 4-5 Personen im 1. Stock zwischen &#x20AC; 150 und &#x20AC; 230/Tag. 
+		Den grandiosen Meerblick bieten alle vier Wohnungen.	
+	</preis>
+	<preis lang="en">
+		Even in Greece such comfort has obviously its price. 
+		The small apartment will be - depending on the time of year - between &#x20AC; 90-160 and the 2-room apartment between &#x20AC; 150-230/day.
+	</preis>
+</seite>

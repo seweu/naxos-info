@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Villa Filis</titel>
+	<titel lang="en">Villa Filis</titel>
+	<beschreibung typ="bild" src="images/filis/filis1.jpg"/>
+	<beschreibung typ="bild" src="images/filis/filis2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Wer das ganz besondere Ferienhaus in der Nähe der Stadt Naxos sucht, 
+		ist hier genau richtig! Das Haus wurde erst kürzlich fertig gestellt 
+		und es bietet vom Internetzugang bis zur Waschmaschine jeden Komfort,
+		den man sich im Urlaub nur vorstellen kann.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		If you are looking for real comfort you will love this villa. This new house offers you everything,
+		starting with a fast internet connection and finishing with the washing machine.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/filis/filis3.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Da das Haus sehr großzügig gebaut wurde, bietet es komfortabel allerdings nur Platz für 4-5 Personen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Because the house was build for high expectations, it will offer space comfortably only for 4-5 persons.
+	</beschreibung>	
+	<preis lang="de">
+		Dieser Komfort hat natürlich seinen Preis. Das Haus kostet in der Hochsaison &#x20AC; 300/Tag und in der Nebensaison &#x20AC; 200.
+		Bei Langzeitaufenthalten reduziert sich der Preis selbstverständlich.
+	</preis>
+	<preis lang="en">
+		Of course this comfort has its price. The house will be &#x20AC; 300/day in high season and &#x20AC; 200 out oft season.
+		For long term stays we will arrange a special offer.
+	</preis>	
+</seite>

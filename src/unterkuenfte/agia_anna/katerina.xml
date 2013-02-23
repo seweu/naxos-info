@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../../naxos-content.xsd">
+	<titel lang="de">Agia Anna / Katerina</titel>
+	<titel lang="en">Agia Anna / Katerina</titel>
+	<beschreibung typ="bild" src="images/katerina/agiakaterina.jpg"/>
+	<beschreibung typ="bild" src="images/katerina/agiakaterina2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Die Taverne von Katerina und Georgios liegt direkt am Strand von Agia Anna nur 10 Meter vom Wasser entfernt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The taverna of Katerina and Georgios is right at the seafront of Agia Anna and only 10 m away from the water.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Diesen Platz empfehle ich besonders Familien mit kleinen Kindern, 
+		weil hier das saubere Wasser nur ganz langsam abfällt und Kinder gefahrlos 
+		am Strand spielen können. Außerdem können Eltern noch in Ruhe auf der 
+		wunderschönen Terrasse sitzen und frühstücken, während die Kinder schon im Sand spielen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		This beautiful place I specially recomend to parants with children because the beach goes down into the clear water only very slowly.
+		The children can play at the beach while their parents are stil having breakfast on the beautiful terrace.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Auch am Abend kann man in Georgios Restaurant (herrlicher Sonnenuntergangsplatz...) 
+		gut sitzen und hervorragend essen. Da die Zimmer direkt über der Taverne liegen, 
+		können die "lieben Kleinen" schon schlafen und man ist nah bei ihnen (Babyphon?).
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		In the evening you can eat in Georgio's Restaurant and enjoy the sunset over Paros. 
+		Because the rooms are right above the terrace the children can be in bed while you stil sit here... (babyphone?)	
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Das ganze Haus ist außerordentlich sauber und gepflegt und die Familie ist liebenswert und hilfsbereit.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The whole house is very clean and the owners are exceptional friendly and helpful.	
+	</beschreibung>
+	<preis lang="de">
+		 Die Studios (2-3 Bettzimmer mit Bad und Balkon) kosten in der Vor- und Nachsaison, 
+		 je nach Reisezeit, zwischen 48 und 63. Lediglich Ende Juli und im August liegen die Preise bei 88. 
+		 Die Zweiraumappartements kosten &#x20AC; 55 - 90 und in der Hochsaison dann &#x20AC; 115.
+	</preis>
+	<preis lang="en">
+		Sudios (for 2-3 beds) will be between &#x20AC; 48-63 and &#x20AC; 88 (july/aug), two-room-flat &#x20AC; 55 - 90 and in &#x20AC; 115 (july / aug).
+	</preis>
+</seite>

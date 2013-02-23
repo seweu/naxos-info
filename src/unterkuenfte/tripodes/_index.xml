@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="gegend">
+	<titel lang="de">Ferienhaus Tripodes</titel>
+	<titel lang="en">House Tripodes</titel>
+	<beschreibung typ="bild" src="images/_index/fh_tripodes1.jpg"/>
+	<beschreibung typ="bild" src="images/_index/fh_tripodes2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Fernab von jeglichem Trubel liegt diese Oase der Ruhe mit einem einmaligen Blick 
+		runter zu den Stränden entlang der Westküste und zur Stadt Naxos.
+		8 km von Naxos-Stadt und nur 3 km vom schönsten Strand der Insel entfernt,
+		liegt dieses kleine 2-Personenhaus mit einem Schlafraum, eigener Küche, Bad und Terrasse.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Far from all kinds of noises you will find this little peaceful house with an unforgettable view 
+		down to the beaches on Naxos' west end and Naxos town.
+		Only 8 km from Naxos town and 3 km from the nicest beaches on the island this little house for two is located in a wonderful garden.
+		It includes a bedroom, a private bath, a kitchen and a terrace.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Hier findet Ihr - selbst in den Monaten Juli/August - eine unfassbare Ruhe verbunden mit einem einmaligen Ausblick.
+		Und wenn die Lichter der Stadt, der Strand oder die Dörfer im Inland rufen,
+		dann seid Ihr mit einem Roller oder einem kleinen Wagen in wenigen Minuten da.
+		Die deutschen Eigentümer leben in der Nähe und sie werden Euch mit wertvollen Inseltipps versorgen.
+		Selbstverständlich werdet Ihr am Hafen oder Flughafen abgeholt.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Even in the lively months July and August, here you will find the peace you are looking for.
+		And if Naxos town, the beaches or the villages of the island are calling, you will be there in no time with a little scooter or car.
+		The German owners live close and they will supply you with wonderful tips. Of course we will wait for you at the harbour or airport.
+	</beschreibung>
+	<preis lang="de">
+		Im Mai und Oktober beträgt die Miete &#x20AC; 45/Tag.
+		Im Juni und September dann &#x20AC; 55.
+		In den  Monaten Juli und August &#x20AC; 60.
+	</preis>
+	<preis lang="en">
+		The rent will be &#x20AC; 45 in May and October, &#x20AC; 55 in June and September and &#x20AC; 60 in July and August.
+	</preis>
+</seite>  

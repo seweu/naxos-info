@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Yianni</titel>
+	<titel lang="en">Yianni</titel>
+	<beschreibung typ="bild" src="images/yianni/kontos_haus.jpg"/>
+	<beschreibung typ="bild" src="images/yianni/kontos_terrasse.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Diese Studios von Yiannis liegen in Mikri Vigla unmittelbar an sehr schönen Buchten und Stränden. 
+		Alle Zimmer und Studios verfügen über eine Küchenecke und eine Terrasse mit Meerblick. 
+		Und wenn man nicht kochen möchte: 
+		mit wenigen Schritten ist man in der hervorragenden Taverne der Familie.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Yianni's studios are right at the beautiful beaches of Mikri Vigla. 
+		All rooms have kitchen and a terrasse with sea-view. 
+		And if you don't feel like cooking... close to the studios you will find his real good taverna.
+	</beschreibung>	
+	<beschreibung typ="text" lang="de">
+		Neben der Surfstation in der Stadt Naxos ist dieser Ort besonders bei Surfern beliebt.
+		Aber keine Sorge: auch wenn es ausreichend Wind zum Surfen gibt - es gibt auch einen windgeschützten Strand...
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+	</beschreibung>	
+	<preis lang="de">
+		In Mikri Vigla kann man noch etwas preiswerter wohnen, als in der Stadt Naxos oder an den stadtnahen Stränden.
+		Die Studios (2-4 Bettzimmer mit Bad und Terrasse kosten in der Vor- und Nachsaison, je nach Reisezeit, zwischen 35 und 50 &#x20AC;. 
+		Lediglich Ende Juli und im August liegen die Preise bei 60 bis 80 &#x20AC;. 
+		Eine 2-Zimmer Wohnung für 4 Personen kostet in der Nebensaison 50-60 &#x20AC; und im Juli/Aug 90 &#x20AC;.
+	</preis>
+	<preis lang="en">
+		In Mikri Vigla you can stay a little cheaper than close to Naxos town.
+		The studios (2-4 persons) are between &#x20AC; 35-50. Only July/August prices are between &#x20AC; 60 and 80.
+		A two-room-flat for 4 persons costs (depending on traveling time) &#x20AC; 50-60  and &#x20AC; 90 in high season.
+	</preis>	
+</seite>

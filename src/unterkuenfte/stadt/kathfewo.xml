@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="unterkunft">
+	<titel lang="de">Ferienwohnung Katerina</titel>
+	<titel lang="en">Apartment Katerina</titel>
+	<beschreibung typ="bild" src="images/kathfewo/kathfewo.jpg"/>
+	<beschreibung typ="bild" src="images/kathfewo/kathfewo2.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Unsere Ferienwohnung liegt in einem gepflegten Wohnviertel der Chora (Naxos-Stadt).
+		Hier leben Sie mitten im "normalen Leben" von Naxos, da in der Nachbarschaft viele private Häuser und Wohnungen liegen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		Our holiday flat is situated in a tidy and quiet living area of Naxos Town.
+		Here you will live right in the middle of "normal Naxos life" because there are a lot of private houses and flats around.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/kathfewo/kathfewo3.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Die Wohnung (für 2-4 Personen) ist auch für den Winteraufenthalt komplett ausgestattet mit Heizung, SAT-TV,
+		Musikanlage u.v.m. Sie verfügt über 2 Schlafzimmer, Wohn-/Eßraum, Küche, Bad, Balkone und Dachterrasse und es wird Ihnen an nichts fehlen.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The flat (2 - 4 pers.) is furnished completely and it has 2 bedrooms, a living/dining room, bath, 3 balconies and a big roof-garden.
+	</beschreibung>
+	<beschreibung typ="text" lang="de">
+		Der Strand von St. George ist zwei und die Altstadt fünf Minuten entfernt.
+		Einkaufsmöglichkeiten, Restaurants etc. sind somit in unmittelbarer Nähe erreichbar.
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		The distance to St. George's beach (and an exellent surf school) is 2 min. and to the centre of Naxos 5 min.
+		Therefore restaurants and shopping facilities are close by.
+	</beschreibung>
+	<beschreibung typ="bild" src="images/kathfewo/kathfewo4.jpg"/>
+	<beschreibung typ="bild" src="images/kathfewo/kathfewo5.jpg"/>
+	<beschreibung typ="text" lang="de">
+		Wir leben und arbeiten auf Naxos und sind gerne bei Ihren Reisevorbereitungen behilflich. 
+		Wir kennen die einfachsten Anreisemöglichkeiten und zeigen Ihnen die schönsten Ecken der Insel. 
+		Wir sind jederzeit auch gerne Ihr Ansprechpartner für gute Tipps und Informationen während Ihres Urlaubs.		
+	</beschreibung>
+	<beschreibung typ="text" lang="en">
+		We live and work on Naxos and we will gladly help with all questions coming up before and during your holiday.
+		If you want, we show you the nicest places on the island.
+		During your holiday we will be there for you anytime you need us.
+	</beschreibung>
+	<preis lang="de">
+		April/Okt &#x20AC; 50,-
+	</preis>
+	<preis lang="en">
+		April/Oct &#x20AC; 50,-
+	</preis>
+	<preis lang="de">
+		Mai &#x20AC; 60,-
+	</preis>
+	<preis lang="en">
+		May &#x20AC; 60,-
+	</preis>
+	<preis lang="de">
+		Juni/Sept. &#x20AC; 70,-
+	</preis>
+	<preis lang="en">
+		Juni/Sept. &#x20AC; 70,-
+	</preis>
+	<preis lang="de">
+		Juli/Aug &#x20AC; 90,-
+	</preis>
+	<preis lang="en">
+		Juli/Aug &#x20AC; 90,-
+	</preis>
+	<preis lang="de">
+		Winter &#x20AC; 40,-
+	</preis>
+	<preis lang="en">
+		Winter &#x20AC; 40,-
+	</preis>
+	<preis lang="de">
+		Einmalige Endreinigungsgebühr &#x20AC; 60,-
+	</preis>
+	<preis lang="en">
+		One-time cleaning fee &#x20AC; 60,-
+	</preis>	
+	<preis lang="de">
+		(Langzeitaufenthalte nach Absprache)
+	</preis>
+	<preis lang="en">
+		(long term stay after discussion)
+	</preis>	
+</seite>
