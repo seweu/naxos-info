@@ -26,6 +26,8 @@ background-position:225px 100px;
 
 #top {
 position:absolute;
+left:150px;
+top;70px;
 width:800px;
 height:100px;
 text-align:center;
@@ -33,7 +35,8 @@ text-align:center;
 
 #content {
 position:absolute;
-top:100px;
+top:170px;
+left:150px;
 width:800px;
 padding-top:50px;
 height:310px;

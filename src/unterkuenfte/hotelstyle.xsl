@@ -8,40 +8,6 @@
 		doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
 	
 	<xsl:include href="common.xsl"/>
-	
-<!-- 	
-	
-	<xsl:template match="name">
-		<xsl:variable name="name" select="./text()"/>
-		<xsl:apply-templates select="document($name)"/>
-	</xsl:template>	
-
-	<xsl:template match="seite">
-		<html>
-		<xsl:call-template name="html_head"/>
-		<body id="naxostor">
-			<div id="top"/>
-			<div id="content">
-				<xsl:call-template name="content"/>
-			</div>
-			<div id="bottom"/>
-		</body>
-		</html>
-	</xsl:template>	
-	
-	
-	<xsl:template match="seite">
-		<html>
-		<xsl:call-template name="html_head"/>
-		<body>
-			<div class="naxostor">
-				<xsl:call-template name="content"/>
-			</div>
-		</body>
-		</html>
-	</xsl:template>	
- -->	
-
 
 	<xsl:template name="content">
 		<xsl:variable name="text">
