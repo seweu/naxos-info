@@ -156,23 +156,33 @@
 			<a target="body">
 			 	<xsl:attribute name="href">
 			 		<xsl:value-of select="$root"/>
-			 		<xsl:text>/a_impressionen.htm</xsl:text>
+			 		<xsl:text>a_impressionen.htm</xsl:text>
 			 	</xsl:attribute>
 				 	
 				<xsl:call-template name="menu_img">
 					<xsl:with-param name="img">_m_impressionen.png</xsl:with-param>
 				</xsl:call-template>
 			</a>
-			<a target="body" onMouseOver="Bildwechsel(8,bild_4);" onMouseOut="Bildwechsel(8,bild_3)">
+			<a target="body">
 			 	<xsl:attribute name="href">
 			 		<xsl:value-of select="$root"/>
-			 		<xsl:text>/a_links.htm</xsl:text>
+			 		<xsl:text>a_links.htm</xsl:text>
 			 	</xsl:attribute>
 				 	
 				<xsl:call-template name="menu_img">
 					<xsl:with-param name="img">_m_links.png</xsl:with-param>
 				</xsl:call-template>
 			</a>
+			<a target="body">
+			 	<xsl:attribute name="href">
+			 		<xsl:value-of select="$root"/>
+			 		<xsl:text>links.xml</xsl:text>
+			 	</xsl:attribute>
+				 	
+				<xsl:call-template name="menu_img">
+					<xsl:with-param name="img">_m_links.png</xsl:with-param>
+				</xsl:call-template>	
+			</a>		
 			<a href="http://www.naxos-info.de/forum/" target="body" onMouseOver="Bildwechsel(8,bild_1);" onMouseOut="Bildwechsel(8,bild_3)">
 				 	
 				<xsl:call-template name="menu_img">

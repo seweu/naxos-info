@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<seite typ="allgemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="naxos-content.xsd">
+
+	<beschreibung typ="text" lang="de">Alle Links auf dieser Seite, die sich in einem eigenen Fenster &ouml;ffnen, sind Verweise auf externe Internetseiten.</beschreibung>
+	<beschreibung typ="text" lang="de">Naxos-Info ist nicht verantwortlich f&uuml;r die Inhalte externer Internetseiten.</beschreibung>
+
+	<beschreibung typ="text" lang="en">Links on this site are external internet pages.</beschreibung>
+	<beschreibung typ="text" lang="en">Naxos-Info is not responsible for content of external internet pages.</beschreibung>
+	
+
+	<verweis typ="bottom" lang="de" ziel="unterkuenfte/antiparos/de/_index.xml" titel="Unterk&uuml;nfte Antiparos"/>
+	
+
+</seite>  
