@@ -9,32 +9,41 @@ font-size:12pt;
 font-family:arial;
 }
 
-body.body {
-background-image:url(images/menue/tor.gif);
-background-repeat:no-repeat;
-background-attachment:fixed;
-background-position:center;
+#flag {
+position:fixed; 
+left:0px; 
+top:0px;
+width:130px; 
+height:50px;
+padding:10px;
+background-color: #ffffff;
 }
 
-#naxostor {
-text-align:left;
-background-image:url(images/menue/tor.gif);
-background-repeat:no-repeat;
-background-attachment:fixed;
-background-position:225px 100px;
+#menu {
+width:150px;
+position:fixed; 
+left:0px; 
+top:70px;
 }
 
-#top {
-position:absolute;
-left:150px;
-top;70px;
-width:800px;
-height:100px;
+#logo {
+width:800px; 
+height:70px;
+position:fixed; 
+left:150px; 
+top:0px;
 text-align:center;
+}
+
+div.naxostor {
+background-image:url(images/menue/tor.gif);
+background-repeat:no-repeat;
+background-position:center center;
 }
 
 #content {
 position:absolute;
+z-index:-1;
 top:170px;
 left:150px;
 width:800px;
@@ -43,12 +52,12 @@ height:310px;
 text-align:center;
 }
 
-#bottom {
+#hotel {
 position:absolute;
-top:460px;
+z-index:-1;
+top:90px;
+left:150px;
 width:800px;
-height:50px;
-text-align:center;
 }
 
 div.fenster {

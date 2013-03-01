@@ -25,11 +25,19 @@
 		</xs:simpleContent>
 	</xs:complexType>
 
+	<xs:complexType name="verweise">
+		<xs:sequence>
+			<xs:element name="verweis" type="verweis" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+
+	</xs:complexType>
+
 	<xs:complexType name="verweis">
 		<xs:attribute name="typ" type="xs:string" use="optional"/>
 		<xs:attribute name="lang" type="lang" use="optional"/>
 		<xs:attribute name="ziel" type="xs:string" use="required"/>
-		<xs:attribute name="titel" type="xs:string" use="required"/>	
+		<xs:attribute name="titel" type="xs:string" use="required"/>
+		<xs:attribute name="beschreibung" type="xs:string" use="optional"/>	
 	</xs:complexType>
 
 	<xs:complexType name="preis" mixed="true">
@@ -39,7 +47,8 @@
 	<xs:complexType name="seite">
 		<xs:sequence>
 			<xs:element name="titel" type="titel" minOccurs="0" maxOccurs="unbounded"/>
-			<xs:element name="beschreibung" type="beschreibung" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="beschreibung" type="beschreibung" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="verweise" type="verweise" minOccurs="0" maxOccurs="unbounded"/>
 			<xs:element name="verweis" type="verweis" minOccurs="0" maxOccurs="unbounded"/>
 			<xs:element name="preis" type="preis" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>	  
@@ -66,6 +75,5 @@
 			</xs:extension>
 		</xs:simpleContent>
 	</xs:complexType>
-	<xs:element name="verweis">
-	</xs:element>
+
 </xs:schema>

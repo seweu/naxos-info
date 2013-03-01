@@ -7,7 +7,7 @@
 		doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" 
 		doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
 	
-	<xsl:include href="common.xsl"/>
+	<xsl:include href="frame.xsl"/>
 
 	<xsl:template name="content">
 		<xsl:variable name="text">
@@ -16,11 +16,11 @@
 			<xsl:apply-templates select="verweise"/>
 			<xsl:apply-templates select="/seite/verweis"/>
 		</xsl:variable>
-		<div id="top"/>
-		<div id="content">
+	
+		<div id="content" class="naxostor">
 		<xsl:copy-of select="$text"/>
 		</div>
-		<div id="bottom"/>
+
 	</xsl:template>
 
 
